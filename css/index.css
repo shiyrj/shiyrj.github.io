@@ -467,5 +467,8 @@ footer {
     .lanmu {
         margin: 0;
     }
+    .navbar div {
+        font-size: 25px;
+    }
 }
   
