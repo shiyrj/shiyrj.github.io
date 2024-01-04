@@ -137,12 +137,37 @@ body {
 
 .xiazai {
     display: block;
-    width: 70%;
+    width: 85%;
     flex-wrap: wrap;
     margin-left: 10px;
     margin-top: 10px;
     background-color: white;
     padding: 15px;
+}
+
+.shiping div{
+    float: left;
+    padding: 14px 16px;
+}
+
+.video-image-container{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.video-image-container a img{
+    position: relative;
+    width: 150px;
+    height: 120px;
+    margin: 0 auto;
+}
+
+/* 鼠标悬停效果 */
+.video-image-container:hover {
+    background-color: rgb(214, 218, 224);
+    color: black;
 }
 
 .sw-title {
