@@ -227,6 +227,11 @@ function replaceContent(value) {
         document.getElementById("gushi").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
         xhr.open('GET', 'xiaoshuo/gushi.html'); // 设置请求类型、地址等信息
     }
+    if(value === 'mianshi'){
+        removeStyle();
+        document.getElementById("mianshi").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
+        xhr.open('GET', 'xiaoshuo/mianshi.html'); // 设置请求类型、地址等信息
+    }
 
 
     xhr.onreadystatechange = function () {
