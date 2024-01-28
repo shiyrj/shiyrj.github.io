@@ -546,7 +546,7 @@ footer {
     .lad1 {
         position: absolute;
         top: 160px;
-        margin-left: -320px;
+        margin-left: -318px;
         display: none;
     }
 
@@ -557,13 +557,13 @@ footer {
     .lad1 .dlink .link a img{
         width: 35px;
         height: 35px;
-        margin: 10px;
+        margin: 7px;
     }
 
     .lad2 {
         position: absolute;
         top: 210px;
-        margin-left: -320px;
+        margin-left: -318px;
         display: none;
     }
 
@@ -573,7 +573,7 @@ footer {
     .lad2 .dlink .link a img{
         width: 35px;
         height: 35px;
-        margin: 10px;
+        margin: 7px;
     }
 
 }
