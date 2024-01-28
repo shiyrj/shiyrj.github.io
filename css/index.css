@@ -265,6 +265,7 @@ i.iconfont {
 }
 
 
+
 #xunlei{
     animation: blinker 1s linear infinite;
 }
@@ -275,8 +276,8 @@ i.iconfont {
 
 .lad1 {
     position: absolute;
-    top: 190px;
-    margin-left: -300px;
+    top: 230px;
+    margin-left: 10px;
     display: none;
     width: 19%;
 }
@@ -288,8 +289,8 @@ i.iconfont {
 
 .lad2 {
     position: absolute;
-    top: 190px;
-    margin-left: 400px;
+    top: 290px;
+    margin-left: 10px;
     display: none;
     width: 19%;
 }
@@ -314,6 +315,7 @@ i.iconfont {
 .lad {
     position: absolute;
     top: 330px;
+    top: 380px;
     margin-left: 10px;
     display: none;
     width: 19%;
@@ -546,7 +548,6 @@ footer {
     .lad1 {
         position: absolute;
         top: 160px;
-        margin-left: -315px;
         display: none;
     }
 
@@ -563,7 +564,6 @@ footer {
     .lad2 {
         position: absolute;
         top: 210px;
-        margin-left: -315px;
         display: none;
     }
 
