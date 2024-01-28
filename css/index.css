@@ -264,9 +264,56 @@ i.iconfont {
     font-size: 13px;
 }
 
+
+#xunlei{
+    animation: blinker 1s linear infinite;
+}
+
+#kuake{
+    animation: blinker 1s linear infinite;
+}
+
+.lad1 {
+    position: absolute;
+    top: 230px;
+    margin-left: 10px;
+    display: none;
+    width: 19%;
+}
+
+.lad1 .dlink .link a{
+    color: #ff5d5d;
+    font-size: 22px;
+}
+
+.lad2 {
+    position: absolute;
+    top: 290px;
+    margin-left: 10px;
+    display: none;
+    width: 19%;
+}
+
+.lad2 .dlink .link a{
+    color: #ff5d5d;
+    font-size: 22px;
+}
+
+@keyframes blinker {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
 .lad {
     position: absolute;
-    top: 330px;
+    top: 380px;
     margin-left: 10px;
     display: none;
     width: 19%;
@@ -274,7 +321,7 @@ i.iconfont {
 
 .lad img {
     position: relative;
-    width: 90%;
+    width: 100%;
     align-items: center;
 }
 
