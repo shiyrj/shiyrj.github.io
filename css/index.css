@@ -20,7 +20,7 @@ body {
 .header {
     display: flex;
     background-color: rgb(252, 187, 123);
-    height: 220px;
+    height: 0;
     justify-content: center;
     align-items: center;
 }
@@ -71,8 +71,8 @@ body {
 }
 
 .logo img {
-    height: 224px;
-    width: 450px;
+    height: 0;
+    width: 0;
 }
 
 .jieshao {
@@ -247,15 +247,16 @@ i.iconfont {
 
 .ad {
     position: absolute;
-    top: 330px;
-    margin-left: 82%;
+    top: 190px;
+    margin-left: 10px;
+    /*margin-left: 82%;*/
     display: none;
     width: 19%;
 }
 
 .ad img {
     position: relative;
-    width: 90%;
+    width: 100%;
     align-items: center;
 }
 
@@ -276,7 +277,7 @@ i.iconfont {
 
 .lad1 {
     position: absolute;
-    top: 230px;
+    top: 50px;
     margin-left: 10px;
     display: none;
     width: 19%;
@@ -289,7 +290,7 @@ i.iconfont {
 
 .lad2 {
     position: absolute;
-    top: 290px;
+    top: 110px;
     margin-left: 10px;
     display: none;
     width: 19%;
@@ -314,8 +315,7 @@ i.iconfont {
 
 .lad {
     position: absolute;
-    top: 330px;
-    top: 380px;
+    top: 400px;
     margin-left: 10px;
     display: none;
     width: 19%;
@@ -469,11 +469,11 @@ footer {
     }
 
     .header {
-        height: 180px;
+        height: 240px;
     }
 
     .logo img {
-        height: 150px;
+        height: 242px;
         width: 400px;
     }
 
@@ -547,7 +547,7 @@ footer {
 
     .lad1 {
         position: absolute;
-        top: 160px;
+        top: 220px;
         margin-left: -2px;
         display: none;
     }
@@ -564,7 +564,7 @@ footer {
 
     .lad2 {
         position: absolute;
-        top: 210px;
+        top: 270px;
         margin-left: -2px;
         display: none;
     }
