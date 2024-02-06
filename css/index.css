@@ -468,15 +468,6 @@ footer {
         width: 0;
     }
 
-    .header {
-        height: 240px;
-    }
-
-    .logo img {
-        height: 242px;
-        width: 400px;
-    }
-
     .jieshao a {
         width: 100%;
     }
@@ -578,5 +569,16 @@ footer {
         margin: 7px;
     }
 
+}
+
+@media screen and (max-width: 1080px) {
+    .header {
+        height: 240px;
+    }
+
+    .logo img {
+        height: 242px;
+        width: 400px;
+    }
 }
   
