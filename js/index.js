@@ -117,6 +117,16 @@ function replaceContent(value) {
         document.getElementById("xrq").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
         xhr.open('GET', 'ruanjian/xrq.html'); // 设置请求类型、地址等信息
     }
+    if(value === '解压工具和下载教程'){
+        removeStyle();
+        document.getElementById("jieyagj").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
+        xhr.open('GET', 'ruanjian/jieyagj.html'); // 设置请求类型、地址等信息
+    }
+    if(value === '系统'){
+        removeStyle();
+        document.getElementById("xitong").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
+        xhr.open('GET', 'ruanjian/xitong.html'); // 设置请求类型、地址等信息
+    }
 
     // 视屏
     if(value === 'dianshi'){
