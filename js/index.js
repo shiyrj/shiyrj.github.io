@@ -1,26 +1,3 @@
-addEventListener('fetch', event => {
-    event.respondWith(handleRequest(event.request))
-})
-
-async function handleRequest(request) {
-    const init = {
-        headers: {
-            'content-type': 'text/html;charset=UTF-8',
-        },
-    }
-    return new Response(renderHTML(), init);
-}
-
-function renderHTML() {
-    return `<!DOCTYPE html>
-  <script>
-  window.location.href = 'https://shiyrj.top'
-  </script>`
-}
-
-
-
-
 function toggleMenu() {
   var menu = document.getElementById("menu");
   if (menu.style.display === "none") {
