@@ -463,6 +463,12 @@ footer {
     .ad {
         width: 0;
     }
+    .search-container {
+        margin-left: 0;
+        position: relative;
+        display: inline-block;
+        width: 250px; /* 可以根据需要调整宽度 */
+    }
 
     .lad {
         width: 0;

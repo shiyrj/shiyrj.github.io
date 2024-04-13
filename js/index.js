@@ -122,6 +122,16 @@ function replaceContent(value) {
         document.getElementById("xrq").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
         xhr.open('GET', 'ruanjian/xrq.html'); // 设置请求类型、地址等信息
     }
+    if(value === 'xuanranqi'){
+        removeStyle();
+        document.getElementById("xuanranqi").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
+        xhr.open('GET', 'ruanjian/xuanranqi.html'); // 设置请求类型、地址等信息
+    }
+    if(value === 'shengmi'){
+        removeStyle();
+        document.getElementById("shengmi").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
+        xhr.open('GET', 'ruanjian/shengmi.html'); // 设置请求类型、地址等信息
+    }
     if(value === '解压工具和下载教程'){
         removeStyle();
         document.getElementById("jieyagj").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";

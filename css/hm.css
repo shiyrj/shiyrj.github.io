@@ -1,0 +1,64 @@
+/* 通用样式 */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* 搜索容器样式 */
+.search-container {
+    margin-left: 22%;
+    position: relative;
+    display: inline-block;
+    width: 250px; /* 可以根据需要调整宽度 */
+}
+
+/* 输入框样式 */
+.search-container input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px; /* 圆角 */
+    box-sizing: border-box; /* 保证内边距和边框不会影响宽度 */
+    transition: border-color 0.3s ease; /* 平滑过渡效果 */
+}
+
+/* 输入框聚焦时样式 */
+.search-container input[type="text"]:focus {
+    border-color: #4CAF50; /* 绿色边框表示聚焦 */
+    outline: none; /* 移除默认的聚焦轮廓 */
+}
+
+/* 下拉菜单样式 */
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 0 0 5px 5px; /* 下拉菜单底部圆角 */
+    max-height: 200px;
+    overflow-y: auto;
+    display: none;
+    z-index: 1;
+}
+
+/* 下拉菜单选项样式 */
+.dropdown-menu a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+    border-bottom: 1px solid #f0f0f0; /* 选项间的分隔线 */
+}
+
+/* 最后一个选项样式，移除底部边框 */
+.dropdown-menu a:last-child {
+    border-bottom: none;
+}
+
+/* 选项鼠标悬停样式 */
+.dropdown-menu a:hover {
+    background-color: #f0f0f0;
+}
