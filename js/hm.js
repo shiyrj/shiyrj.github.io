@@ -611,7 +611,8 @@ const options = [
     { text: 'VRay 5.2 for Rhino6-8', url: 'https://pan.quark.cn/s/5bbe14f136a6' },
     { text: 'VRay 5.1 for Rhino6-7', url: 'https://pan.quark.cn/s/9a23ecc2d9d4' },
     { text: 'VRay 4.2 for Rhino5-7', url: 'https://pan.quark.cn/s/6abf93406bf7' },
-    { text: 'VRay 4.1 for Rhino5-6', url: 'https://pan.quark.cn/s/39aa5f762776' }
+    { text: 'VRay 4.1 for Rhino5-6', url: 'https://pan.quark.cn/s/39aa5f762776' },
+    { text: 'IMD安装包及激活工具', url: 'https://pan.xunlei.com/s/VNvN_JfO9P-CiJX9JiixfDsBA1?pwd=3t73#' }
     // ... 其他选项
 ];
 
