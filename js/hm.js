@@ -612,7 +612,12 @@ const options = [
     { text: 'VRay 5.1 for Rhino6-7', url: 'https://pan.quark.cn/s/9a23ecc2d9d4' },
     { text: 'VRay 4.2 for Rhino5-7', url: 'https://pan.quark.cn/s/6abf93406bf7' },
     { text: 'VRay 4.1 for Rhino5-6', url: 'https://pan.quark.cn/s/39aa5f762776' },
-    { text: 'IMD安装包及激活工具', url: 'https://pan.xunlei.com/s/VNvN_JfO9P-CiJX9JiixfDsBA1?pwd=3t73#' }
+    { text: 'IMD安装包及激活工具', url: 'https://pan.xunlei.com/s/VNvN_JfO9P-CiJX9JiixfDsBA1?pwd=3t73#' },
+    { text: '安卓游戏百宝箱1', url: 'https://pan.quark.cn/s/6a6d42356259' },
+    { text: '安卓游戏百宝箱2', url: 'https://pan.xunlei.com/s/VNvSTXjGSVk4-5IzlmZGeyhFA1?pwd=x2af#' },
+    { text: 'PC游戏百宝箱1', url: 'https://pan.quark.cn/s/397b80564caa' },
+    { text: 'PC游戏百宝箱2', url: 'https://pan.xunlei.com/s/VNvST_mVrorVMQkfMUG739jEA1?pwd=sbrz#' },
+    { text: '免费电视TV盒子软件百宝箱', url: 'https://pan.quark.cn/s/11e3aba5c6e0' }
     // ... 其他选项
 ];
 
