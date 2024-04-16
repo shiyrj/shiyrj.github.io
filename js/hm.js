@@ -617,7 +617,9 @@ const options = [
     { text: '安卓游戏百宝箱2', url: 'https://pan.xunlei.com/s/VNvSTXjGSVk4-5IzlmZGeyhFA1?pwd=x2af#' },
     { text: 'PC游戏百宝箱1', url: 'https://pan.quark.cn/s/397b80564caa' },
     { text: 'PC游戏百宝箱2', url: 'https://pan.xunlei.com/s/VNvST_mVrorVMQkfMUG739jEA1?pwd=sbrz#' },
-    { text: '免费电视TV盒子软件百宝箱', url: 'https://pan.quark.cn/s/11e3aba5c6e0' }
+    { text: '免费电视TV盒子软件百宝箱', url: 'https://pan.quark.cn/s/11e3aba5c6e0' },
+    { text: 'Rhino 8.6', url: 'https://pan.xunlei.com/s/VNvbiDt361wKUxMIPpGu80M1A1?pwd=zabp#' },
+    { text: '达芬奇 19', url: 'https://pan.xunlei.com/s/VNvbiVDmHD00qncnjcMKKI6kA1?pwd=y27s#' },
     // ... 其他选项
 ];
 
