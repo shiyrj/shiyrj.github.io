@@ -4,6 +4,7 @@ const options = [
     { text: 'Stable Diffusion（SD）', url: 'https://pan.quark.cn/s/971c7f41c685' },
     { text: 'AI绘画关键词', url: 'https://pan.quark.cn/s/ba48b90eb11f' },
     { text: 'office 白嫖神器', url: 'https://pan.xunlei.com/s/VNv2r1eVxliNst19L1IRAMFIA1?pwd=y4vk#' },
+    { text: 'Office Installer Plus', url: 'https://pan.xunlei.com/s/VNvrI4QLfz6guXqO8J11KApkA1?pwd=jr2k#' },
     { text: 'Microsoft 365', url: 'https://pan.xunlei.com/s/VNv2qz1HoqTQutMQx_ElsMm8A1?pwd=ra7n#' },
     { text: 'office 2024', url: 'https://pan.xunlei.com/s/VNo1_BK_feZdZbRPoRMci-a4A1?pwd=cx3p' },
     { text: 'office 2021', url: 'https://pan.xunlei.com/s/VNo1aObTuw-ei3NV34fZWiS6A1?pwd=yxzz' },
@@ -236,6 +237,7 @@ const options = [
     { text: 'adobe40全家桶激活工具及教程', url: 'https://pan.xunlei.com/s/VNobsChSwBl3UuWkgN6T9-n9A1?pwd=yq27#' },
     { text: 'Photoshop（ps）mac版本', url: 'https://pan.xunlei.com/s/VNv2sS24NyQ75WfhSX8Ic53aA1?pwd=fer7#' },
     { text: 'Photoshop（ps）插件', url: 'https://pan.xunlei.com/s/VNv2uPAxViPDZJnmTOwAmafNA1?pwd=krtf#' },
+    { text: 'Photoshop（ps）插件一键安装板', url: 'https://pan.xunlei.com/s/VNvrIytOp-_r1h9Ud5e6LjSFA1?pwd=4r5f#' },
     { text: 'Photoshop（ps）2024最新自取版', url: 'https://pan.xunlei.com/s/VNt1XhnDdHhD2rDdBM1ibv3OA1?pwd=wpbt#' },
     { text: 'Photoshop（ps）2024 25.8', url: 'https://pan.xunlei.com/s/VNvgvx1y6108qG8w-hL3gl2pA1?pwd=629g#' },
     { text: 'Photoshop（ps）2024 25.7星空幻想版', url: 'https://pan.xunlei.com/s/VNudomfRgPwovOLJmAkKmZPaA1?pwd=sadh#' },
@@ -619,6 +621,12 @@ const options = [
     { text: '免费电视TV盒子软件百宝箱', url: 'https://pan.quark.cn/s/11e3aba5c6e0' },
     { text: 'Rhino 8.6', url: 'https://pan.xunlei.com/s/VNvbiDt361wKUxMIPpGu80M1A1?pwd=zabp#' },
     { text: '达芬奇 19', url: 'https://pan.xunlei.com/s/VNvbiVDmHD00qncnjcMKKI6kA1?pwd=y27s#' },
+    { text: 'Topaz Gigapixel AI', url: 'https://pan.xunlei.com/s/VNvrKTtjDu4IWPdGHMAlqbEpA1?pwd=767x#' },
+    { text: '电脑端剪映', url: 'https://pan.xunlei.com/s/VNvrLGQnWbj5rSuOK-A9XuJmA1?pwd=8stn#' },
+    { text: 'Bypass 抢票神器', url: 'https://pan.xunlei.com/s/VNvrMKEqPbtm9Q7XsUwyg072A1?pwd=zcce#' },
+    { text: '闪豆下载器', url: 'https://pan.xunlei.com/s/VNvrMebsUUrvGA33TFCVS5bNA1?pwd=kwr4#' },
+    { text: 'B站下载工具', url: 'https://pan.xunlei.com/s/VNvrN3c4FC1b_IjfHu_NC1fQA1?pwd=fbs9#' },
+    { text: '网易云音乐', url: 'https://pan.xunlei.com/s/VNvrNIbqcghaYl5s1nnmg2hBA1?pwd=rirf#' },
     // ... 其他选项
 ];
 
