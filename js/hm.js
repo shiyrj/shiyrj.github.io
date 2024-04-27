@@ -236,7 +236,6 @@ const options = [
     { text: 'Adobe 2018全家桶', url: 'https://pan.xunlei.com/s/VNrA1-8dqGsvO8IvWyPaZql4A1?pwd=sevd#' },
     { text: 'adobe40全家桶激活工具及教程', url: 'https://pan.xunlei.com/s/VNobsChSwBl3UuWkgN6T9-n9A1?pwd=yq27#' },
     { text: 'Photoshop（ps）mac版本', url: 'https://pan.xunlei.com/s/VNv2sS24NyQ75WfhSX8Ic53aA1?pwd=fer7#' },
-    { text: 'Photoshop（ps）插件', url: 'https://pan.xunlei.com/s/VNv2uPAxViPDZJnmTOwAmafNA1?pwd=krtf#' },
     { text: 'Photoshop（ps）插件一键安装板', url: 'https://pan.xunlei.com/s/VNvrIytOp-_r1h9Ud5e6LjSFA1?pwd=4r5f#' },
     { text: 'Photoshop（ps）2024最新自取版', url: 'https://pan.xunlei.com/s/VNt1XhnDdHhD2rDdBM1ibv3OA1?pwd=wpbt#' },
     { text: 'Photoshop（ps）2024 25.8', url: 'https://pan.xunlei.com/s/VNvgvx1y6108qG8w-hL3gl2pA1?pwd=629g#' },
@@ -261,7 +260,6 @@ const options = [
     { text: 'Photoshop Elements 2021', url: 'https://pan.xunlei.com/s/VNq5GY4JzZt9sWTk5IbYyxkaA1?pwd=59cz#' },
     { text: 'Photoshop Elements 2020', url: 'https://pan.xunlei.com/s/VNq5GawLV5tOoEsI5Z5a5rSiA1?pwd=ncsb#' },
     { text: 'Premiere mac版本', url: 'https://pan.xunlei.com/s/VNv2sm13ILtkqXQYuqYI6JB2A1?pwd=bjwq#' },
-    { text: 'Premiere 插件', url: 'https://pan.xunlei.com/s/VNv2uZQaqOlZcLxXR0WMuDzCA1?pwd=c5nn#' },
     { text: 'Premiere 2024', url: 'https://pan.quark.cn/s/8e64341b3ab7' },
     { text: 'Premiere 2023', url: 'https://pan.quark.cn/s/4e6fbee0c052' },
     { text: 'Premiere 2022', url: 'https://pan.quark.cn/s/e11007fd2cd6' },
@@ -627,6 +625,15 @@ const options = [
     { text: '闪豆下载器', url: 'https://pan.xunlei.com/s/VNvrMebsUUrvGA33TFCVS5bNA1?pwd=kwr4#' },
     { text: 'B站下载工具', url: 'https://pan.xunlei.com/s/VNvrN3c4FC1b_IjfHu_NC1fQA1?pwd=fbs9#' },
     { text: '网易云音乐', url: 'https://pan.xunlei.com/s/VNvrNIbqcghaYl5s1nnmg2hBA1?pwd=rirf#' },
+    { text: 'SAS 9.4', url: 'https://pan.xunlei.com/s/VNwTxWpu8pjIrKfO8qcfKBwQA1?pwd=75r9#' },
+    { text: 'MathType 7.7', url: 'https://pan.xunlei.com/s/VNwTyGEAB9GPSEtCyUEoUA4YA1?pwd=z8sb#' },
+    { text: 'MathType 7.4', url: 'https://pan.xunlei.com/s/VNwTyLX-w-Qq-Zi4RKNij-6LA1?pwd=dsi8#' },
+    { text: 'MathType 6.9', url: 'https://pan.xunlei.com/s/VNwTyQB8cTOAOE7Tsmjx7RTWA1?pwd=asaf#' },
+    { text: '酷狗音乐', url: 'https://pan.quark.cn/s/573df4272fb1' },
+    { text: '落雪音乐', url: 'https://pan.quark.cn/s/4a96be766f31' },
+    { text: '方格音乐', url: 'https://pan.quark.cn/s/f2e9faabb65c' },
+    { text: 'radishes音乐', url: 'https://pan.quark.cn/s/bd017bc35dc9' },
+    { text: '全能DLL修复工具', url: 'https://pan.quark.cn/s/b2c0b48e7d21' },
     // ... 其他选项
 ];
 
