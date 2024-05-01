@@ -260,6 +260,7 @@ const options = [
     { text: 'Photoshop Elements 2021', url: 'https://pan.xunlei.com/s/VNq5GY4JzZt9sWTk5IbYyxkaA1?pwd=59cz#' },
     { text: 'Photoshop Elements 2020', url: 'https://pan.xunlei.com/s/VNq5GawLV5tOoEsI5Z5a5rSiA1?pwd=ncsb#' },
     { text: 'Premiere mac版本', url: 'https://pan.xunlei.com/s/VNv2sm13ILtkqXQYuqYI6JB2A1?pwd=bjwq#' },
+    { text: 'pr 插件一键安装板', url: 'https://pan.xunlei.com/s/VNwm9JGUC5hipr1kfg59jHjSA1?pwd=ekhp#' },
     { text: 'Premiere 2024', url: 'https://pan.quark.cn/s/8e64341b3ab7' },
     { text: 'Premiere 2023', url: 'https://pan.quark.cn/s/4e6fbee0c052' },
     { text: 'Premiere 2022', url: 'https://pan.quark.cn/s/e11007fd2cd6' },
@@ -634,6 +635,10 @@ const options = [
     { text: '方格音乐', url: 'https://pan.quark.cn/s/f2e9faabb65c' },
     { text: 'radishes音乐', url: 'https://pan.quark.cn/s/bd017bc35dc9' },
     { text: '全能DLL修复工具', url: 'https://pan.quark.cn/s/b2c0b48e7d21' },
+    { text: '酷狗音乐', url: 'https://pan.quark.cn/s/4708056cdb64' },
+    { text: 'ae 插件一键安装板', url: 'https://pan.xunlei.com/s/VNwm9sGrJT_pZFofzXexn5axA1?pwd=yzdh#' },
+    { text: 'lr 插件一键安装板', url: 'https://pan.xunlei.com/s/VNwmARhDTtgXbN_AGPEKRlvXA1?pwd=9kxb#' },
+    { text: 'C4D 插件一键安装板', url: 'https://pan.xunlei.com/s/VNwmBJDTCmZoV5LwnWBgn1adA1?pwd=kgb3#' },
     // ... 其他选项
 ];
 
