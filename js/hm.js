@@ -238,6 +238,7 @@ const options = [
     { text: 'Photoshop（ps）mac版本', url: 'https://pan.xunlei.com/s/VNv2sS24NyQ75WfhSX8Ic53aA1?pwd=fer7#' },
     { text: 'Photoshop（ps）插件一键安装板', url: 'https://pan.xunlei.com/s/VNvrIytOp-_r1h9Ud5e6LjSFA1?pwd=4r5f#' },
     { text: 'Photoshop（ps）2024最新自取版', url: 'https://pan.xunlei.com/s/VNt1XhnDdHhD2rDdBM1ibv3OA1?pwd=wpbt#' },
+    { text: 'Photoshop（ps）2024 25.9', url: 'https://pan.xunlei.com/s/VNx3vsv55jaF-jBO8qfJrpFBA1?pwd=2uhe#' },
     { text: 'Photoshop（ps）2024 25.8', url: 'https://pan.xunlei.com/s/VNvgvx1y6108qG8w-hL3gl2pA1?pwd=629g#' },
     { text: 'Photoshop（ps）2024 25.7星空幻想版', url: 'https://pan.xunlei.com/s/VNudomfRgPwovOLJmAkKmZPaA1?pwd=sadh#' },
     { text: 'Photoshop（ps）2024 25.6金龙版', url: 'https://pan.xunlei.com/s/VNt1XsKB6-b6S75iVBIX4TraA1?pwd=3kur#' },
