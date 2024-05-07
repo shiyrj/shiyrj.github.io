@@ -1,5 +1,5 @@
-name: GitHub Actions Deploy to Aliyun Server
- 
+name: Sync to OSS
+
 on:
   push:
     branches:
@@ -18,9 +18,9 @@ jobs:
       env:
         SSH_PRIVATE_KEY: ${{ secrets.ALIYUN_SSH_PRIVATE_KEY }}
         ARGS: "-o StrictHostKeyChecking=no"
-        SOURCE: "./"  # 更改为你的源文件或目录
+        SOURCE: "./shiyrj.github.io"  # 更改为你的源文件或目录
         REMOTE_HOST: ${{ secrets.ALIYUN_SERVER_IP }}  # 更改为你的服务器IP
         REMOTE_USER: ${{ secrets.ALIYUN_SERVER_USER }}  # 更改为你的服务器用户名
         REMOTE_PORT: "22"  # 更改为你的服务器SSH端口，如果是默认端口可以不填
-        TARGET: "/root/shiyrj"  # 更改为你的服务器目标部署目录
+        TARGET: "/shiyrj"  # 更改为你的服务器目标部署目录
  
