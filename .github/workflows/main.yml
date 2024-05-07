@@ -1,25 +1,23 @@
-name: Deploy to Aliyun Server
-
+name: Deploy to Server
+ 
 on:
   push:
     branches:
-      - main  # 更改为你的默认分支
-
+      - main  
+ 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout Code
         uses: actions/checkout@v2
-
-      - name: SSH to Aliyun Server
-        uses: appleboy/ssh-action@master
-        with:
-          host: ${{ secrets.ALIYUN_SERVER_IP }}  # 更改为你的服务器IP
-          username: ${{ secrets.ALIYUN_SERVER_USER }}  # 更改为你的服务器用户名
-          password: ${{ secrets.ALIYUN_SSH_PRIVATE_KEY }}  # 更改为你的服务器密码
-          port: 22  # 更改为你的服务器SSH端口
-          script: |
-            mkdir -p /shiyrj  # 更改为你的目的路径
-            rsync -av --delete --exclude=.git ./  /shiyrj/  # 更改为你的本地代码路径和目的路径
+ 
+      - name: Setup Rsync
+        uses: easingthemes/ssh-deploy@v2.1.5
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.ALIYUN_SSH_PRIVATE_KEY }}
+          ARGS: "-avz --delete"
+          SOURCE: "."
+          REMOTE_HOST: ${{ secrets.ALIYUN_SERVER_IP }}
+          REMOTE_USER: ${{ secrets.ALIYUN_SERVER_USER }}
+          TARGET: "/shiyrj"  
