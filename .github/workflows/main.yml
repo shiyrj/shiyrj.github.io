@@ -22,4 +22,4 @@ jobs:
           port: 22  # 更改为你的服务器SSH端口
           script: |
             mkdir -p /shiyrj  # 更改为你的目的路径
-            rsync -av --delete --exclude=.git ./ /shiyrj/  # 更改为你的本地代码路径和目的路径
+            rsync -av --delete --exclude=.git ./shiyrj.github.io/  /shiyrj/  # 更改为你的本地代码路径和目的路径
