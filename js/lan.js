@@ -37,7 +37,7 @@ function lazyload(imgs) {
     }
 }
 
-window.onload = imgeLazyLoad;
+//window.onload = imgeLazyLoad;
 function imgeLazyLoad() {
     // 滚屏函数
     window.onscroll = function () {
