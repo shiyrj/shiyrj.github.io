@@ -127,6 +127,11 @@ function replaceContent(value) {
         document.getElementById("jz").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
         xhr.open('GET', 'ruanjian/jz.html'); // 设置请求类型、地址等信息
     }
+    if (value === 'topaz') {
+        removeStyle();
+        document.getElementById("topaz").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
+        xhr.open('GET', 'ruanjian/topaz.html'); // 设置请求类型、地址等信息
+    }
     if (value === 'ai') {
         removeStyle();
         document.getElementById("ai").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";

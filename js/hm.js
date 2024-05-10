@@ -554,6 +554,7 @@ const options = [
     { text: 'Lumion 10', url: 'https://pan.xunlei.com/s/VNrPvlwwVNHPZYmCh-mALuglA1?pwd=5dqn#' },
     { text: 'Lumion 9', url: 'https://pan.xunlei.com/s/VNrPvrTC8_RkqS-lqRkbANMlA1?pwd=zdsf#' },
     { text: 'Lumion 8', url: 'https://pan.xunlei.com/s/VNrPvvt6_uKgg9hkzwApsgeiA1?pwd=8unz#' },
+    { text: 'KeyShot 2024', url: 'https://pan.xunlei.com/s/VNxSwy1s4CeFJ2mTzqtry2fpA1?pwd=n8d2#' },
     { text: 'KeyShot 2023', url: 'https://pan.xunlei.com/s/VNrPyUsDhuInkXXJaJAtY8LAA1?pwd=ujv3#' },
     { text: 'KeyShot 11', url: 'https://pan.xunlei.com/s/VNrPyfleiSr7iBYEmqA1vXh3A1?pwd=6x8v#' },
     { text: 'KeyShot 10', url: 'https://pan.xunlei.com/s/VNrPykVa_RA9VonWD8U_OmEpA1?pwd=xfdg#' },
@@ -622,7 +623,6 @@ const options = [
     { text: '免费电视TV盒子软件百宝箱', url: 'https://pan.quark.cn/s/11e3aba5c6e0' },
     { text: 'Rhino 8.6', url: 'https://pan.xunlei.com/s/VNvbiDt361wKUxMIPpGu80M1A1?pwd=zabp#' },
     { text: '达芬奇 19', url: 'https://pan.xunlei.com/s/VNvbiVDmHD00qncnjcMKKI6kA1?pwd=y27s#' },
-    { text: 'Topaz Gigapixel AI', url: 'https://pan.xunlei.com/s/VNvrKTtjDu4IWPdGHMAlqbEpA1?pwd=767x#' },
     { text: '电脑端剪映', url: 'https://pan.xunlei.com/s/VNvrLGQnWbj5rSuOK-A9XuJmA1?pwd=8stn#' },
     { text: 'Bypass 抢票神器', url: 'https://pan.xunlei.com/s/VNvrMKEqPbtm9Q7XsUwyg072A1?pwd=zcce#' },
     { text: '闪豆下载器', url: 'https://pan.xunlei.com/s/VNvrMebsUUrvGA33TFCVS5bNA1?pwd=kwr4#' },
@@ -641,6 +641,15 @@ const options = [
     { text: 'ae 插件一键安装板', url: 'https://pan.xunlei.com/s/VNwm9sGrJT_pZFofzXexn5axA1?pwd=yzdh#' },
     { text: 'lr 插件一键安装板', url: 'https://pan.xunlei.com/s/VNwmARhDTtgXbN_AGPEKRlvXA1?pwd=9kxb#' },
     { text: 'C4D 插件一键安装板', url: 'https://pan.xunlei.com/s/VNwmBJDTCmZoV5LwnWBgn1adA1?pwd=kgb3#' },
+    { text: 'Topaz Photo AI 2.4.2', url: 'https://pan.xunlei.com/s/VNxVVaeXWgjcEBRZIODDY9IPA1?pwd=z4gs#' },
+    { text: 'Topaz Adjust AI 1.0.6', url: 'https://pan.xunlei.com/s/VNxVX2P_WgjcEBRZIODDYY63A1?pwd=zxsr#' },
+    { text: 'Topaz DeNoise AI 3.7.2', url: 'https://pan.xunlei.com/s/VNxVXlDBFM4UO5WuF-sTuap2A1?pwd=geiq#' },
+    { text: 'Topaz Gigapixel AI 7.1.0', url: 'https://pan.xunlei.com/s/VNxVYa2VKZqhBspmP5_IOjqxA1?pwd=gwu6#' },
+    { text: 'Topaz JPEG to RAW AI 2.2.1', url: 'https://pan.xunlei.com/s/VNxVZ43aWgjcEBRZIODDZ9FSA1?pwd=mk7w#' },
+    { text: 'Topaz Mask AI 1.3.9', url: 'https://pan.xunlei.com/s/VNxV_l4_pWoyvgSCJlJGVWXnA1?pwd=4ec3#' },
+    { text: 'Topaz Sharpen AI 4.1.0', url: 'https://pan.xunlei.com/s/VNxVaLgTjE3V6l_36sReCZKmA1?pwd=xfta#' },
+    { text: 'Topaz Studio AI 2.3.2', url: 'https://pan.xunlei.com/s/VNxW2PA0GeRr3iB2bLHnqWegA1?pwd=qa99#' },
+    { text: 'Topaz Video AI 4.0.6', url: 'https://pan.xunlei.com/s/VNxW2vZjKTjGa32qu8dkELanA1?pwd=wqbg#' }
     // ... 其他选项
 ];
 
