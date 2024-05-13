@@ -501,9 +501,6 @@ const options = [
     { text: 'Creo 7', url: 'https://pan.xunlei.com/s/VNv3-0g_3KF0Ir94-IdLyozCA1?pwd=x5kv#' },
     { text: 'Creo 6', url: 'https://pan.xunlei.com/s/VNv3-7Z2oqTQutMQx_Elub7rA1?pwd=7fkx#' },
     { text: 'Creo 5', url: 'https://pan.xunlei.com/s/VNv3-BQatR-R-Zoc41Q1pvioA1?pwd=8qxz#' },
-    { text: 'Win 7直装版', url: 'https://pan.quark.cn/s/9447227e396e' },
-    { text: 'Win 10直装版', url: 'https://pan.quark.cn/s/a23b4b83c629' },
-    { text: 'Win 11直装版', url: 'https://pan.quark.cn/s/25eea8fcd8fc' },
     { text: 'Cubase 13', url: 'https://pan.xunlei.com/s/VNo7M-z9UppUNeRsoJ4HNKgEA1?pwd=xxbr' },
     { text: 'Cubase 12', url: 'https://pan.xunlei.com/s/VNo7M5T_0l_fOYP_iNbg5tHFA1?pwd=bdaq' },
     { text: 'Cubase 11', url: 'https://pan.xunlei.com/s/VNo7MAfi-HyngSRUD7OFrcoyA1?pwd=rpg5' },
@@ -685,6 +682,16 @@ const options = [
     { text: 'Proe 5.0M280', url: 'https://pan.xunlei.com/s/VNx_loCPm4pwo5OfC585x4ZjA1?pwd=fwsy#' },
     { text: 'Proe 5', url: 'https://pan.xunlei.com/s/VNx_luOPKTjGa32qu8dldnnNA1?pwd=2cah#' },
     { text: 'Dynaform 5.9.4', url: 'https://pan.xunlei.com/s/VNxaH9XuSbdxYVEtRHN8toWgA1?pwd=qqkf#' },
+    { text: 'VMware 17.5', url: 'https://pan.xunlei.com/s/VNxcbQTUnDaqCJcnuKqTolJ_A1?pwd=amje#' },
+    { text: '直接安装Win7', url: 'https://pan.xunlei.com/s/VNxkexfl72Z_Dlpg6rP2WELOA1?pwd=cz76#' },
+    { text: 'U盘安装Win7', url: 'https://pan.xunlei.com/s/VNxkf-shLUQAkrwW2BhTsMlSA1?pwd=7t4h#' },
+    { text: '虚拟机装Win7', url: 'https://pan.xunlei.com/s/VNxkf2WL0CAFtaVXcWLShp2vA1?pwd=9cn8#' },
+    { text: '直接安装Win10', url: 'https://pan.xunlei.com/s/VNxkfHNPKOCW-4tz0equNNdJA1?pwd=33a2#' },
+    { text: 'U盘安装Win10', url: 'https://pan.xunlei.com/s/VNxkfKE63o7MZYRUP46q30vEA1?pwd=ss65#' },
+    { text: '虚拟机装Win10', url: 'https://pan.xunlei.com/s/VNxkfNVuqFEawj89PEBzFclkA1?pwd=dstc#' },
+    { text: '直接安装Win11', url: 'https://pan.quark.cn/s/25eea8fcd8fc' },
+    { text: 'U盘安装Win11', url: 'https://pan.xunlei.com/s/VNxkfpdise99dfcjtOUFepmsA1?pwd=awv5#' },
+    { text: '虚拟机装Win11', url: 'https://pan.xunlei.com/s/VNxkfnTJse99dfcjtOUFepHDA1?pwd=i5fj#' },
 
     // ... 其他选项
 ];
