@@ -697,6 +697,7 @@ const options = [
     { text: 'U盘安装Win11', url: 'https://pan.xunlei.com/s/VNxkfpdise99dfcjtOUFepmsA1?pwd=awv5#' },
     { text: '虚拟机装Win11', url: 'https://pan.xunlei.com/s/VNxkfnTJse99dfcjtOUFepHDA1?pwd=i5fj#' },
     { text: '卸载工具geek', url: 'https://pan.quark.cn/s/a3110760f22b' },
+    { text: '虚拟光驱', url: 'https://pan.xunlei.com/s/VNygFkDkS4T29bpo0k8yvfViA1?pwd=xs3k#' },
 
     // ... 其他选项
 ];
