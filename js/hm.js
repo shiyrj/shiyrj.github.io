@@ -47,7 +47,7 @@ const options = [
     { text: 'SPSS 23', url: 'https://pan.xunlei.com/s/VNo2hny6hmYbN_LPwkDSemxxA1?pwd=3mbz' },
     { text: 'SPSS 22', url: 'https://pan.xunlei.com/s/VNo2ht8eQXQ7pJ_0gz9SbXWpA1?pwd=u4qc' },
     { text: 'SPSS视频教程', url: 'https://pan.quark.cn/s/a3a9c6f85755' },
-    { text: 'Origin 2023', url: 'https://pan.xunlei.com/s/VNtVJiZS4QwPePd4jBDR4f5XA1?pwd=2fhy#' },
+    { text: 'Origin 2024', url: 'https://pan.xunlei.com/s/VNyfbvOO2SeInWSWTDa50sBqA1?pwd=mhqu#' },
     { text: 'Origin 2022', url: 'https://pan.xunlei.com/s/VNv2rKLCFRyhSGY7pwhBT9AeA1?pwd=psd8#' },
     { text: 'Origin 2021', url: 'https://pan.xunlei.com/s/VNv2vK_bjdqRfzGgjZME5JZVA1?pwd=b9y2#' },
     { text: 'Origin 2019', url: 'https://pan.xunlei.com/s/VNo6F4eOLWH3wa_PUiq2mgbGA1?pwd=cewy' },
@@ -693,9 +693,10 @@ const options = [
     { text: '直接安装Win10', url: 'https://pan.xunlei.com/s/VNxkfHNPKOCW-4tz0equNNdJA1?pwd=33a2#' },
     { text: 'U盘安装Win10', url: 'https://pan.xunlei.com/s/VNxkfKE63o7MZYRUP46q30vEA1?pwd=ss65#' },
     { text: '虚拟机装Win10', url: 'https://pan.xunlei.com/s/VNxkfNVuqFEawj89PEBzFclkA1?pwd=dstc#' },
-    { text: '直接安装Win11', url: 'https://pan.quark.cn/s/25eea8fcd8fc' },
+    { text: '直接安装Win11', url: 'https://pan.xunlei.com/s/VNyfbjXAzCHzD-TFi4K9ylEYA1?pwd=2py9#' },
     { text: 'U盘安装Win11', url: 'https://pan.xunlei.com/s/VNxkfpdise99dfcjtOUFepmsA1?pwd=awv5#' },
     { text: '虚拟机装Win11', url: 'https://pan.xunlei.com/s/VNxkfnTJse99dfcjtOUFepHDA1?pwd=i5fj#' },
+    { text: '卸载工具geek', url: 'https://pan.quark.cn/s/a3110760f22b' },
 
     // ... 其他选项
 ];
