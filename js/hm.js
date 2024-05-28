@@ -520,6 +520,9 @@ const options = [
     { text: 'EDIUS 9.0', url: 'https://pan.xunlei.com/s/VNo7WxW2Dfjgkx4DmSC4s7dPA1?pwd=8rfv' },
     { text: 'EDIUS 8.5', url: 'https://pan.xunlei.com/s/VNo7XLQ1UppUNeRsoJ4HQnXmA1?pwd=n3in' },
     { text: 'EDIUS 6.5', url: 'https://pan.xunlei.com/s/VNo7XQaXMLVS4SOd36eSdHf7A1?pwd=ebwr' },
+    { text: '达芬奇 17.4.6 mac版', url: 'https://pan.xunlei.com/s/VNywuaNi7IbTJWjuiZdA5CJ-A1?pwd=u39t#' },
+    { text: '达芬奇19Beta3修复闪屏版', url: 'https://pan.xunlei.com/s/VNywuQLcCwBzRgzSAZeK-pguA1?pwd=skw9#' },
+    { text: '达芬奇 19', url: 'https://pan.xunlei.com/s/VNvbiVDmHD00qncnjcMKKI6kA1?pwd=y27s#' },
     { text: '达芬奇 18.6.3', url: 'https://pan.xunlei.com/s/VNuNPHiw_4atcXK51_QbvZc_A1?pwd=p9a2#' },
     { text: '达芬奇 18.5', url: 'https://pan.xunlei.com/s/VNo7bMtaMLVS4SOd36eSerVuA1?pwd=8394' },
     { text: '达芬奇 18.0', url: 'https://pan.xunlei.com/s/VNo7bRtxs3zIwXW9gJUuuRlFA1?pwd=nhei' },
@@ -628,7 +631,6 @@ const options = [
     { text: 'PC游戏百宝箱2', url: 'https://pan.xunlei.com/s/VNvST_mVrorVMQkfMUG739jEA1?pwd=sbrz#' },
     { text: '免费电视TV盒子软件百宝箱', url: 'https://pan.quark.cn/s/11e3aba5c6e0' },
     { text: 'Rhino 8.6', url: 'https://pan.xunlei.com/s/VNvbiDt361wKUxMIPpGu80M1A1?pwd=zabp#' },
-    { text: '达芬奇 19', url: 'https://pan.xunlei.com/s/VNvbiVDmHD00qncnjcMKKI6kA1?pwd=y27s#' },
     { text: '剪映国际版（Mac版）', url: 'https://pan.xunlei.com/s/VNy6ma8_8Wp5qjj118f8og2-A1?pwd=yivb#' },
     { text: '剪映国际版（Win版）', url: 'https://pan.xunlei.com/s/VNy6mfpkad5Z1gEgyF4WzU8nA1?pwd=34f2#' },
     { text: '剪映专业版 5.9', url: 'https://pan.xunlei.com/s/VNy6lsQukefLeE2Bt_FY_DhlA1?pwd=vkma#' },
@@ -698,6 +700,7 @@ const options = [
     { text: '虚拟机装Win11', url: 'https://pan.xunlei.com/s/VNxkfnTJse99dfcjtOUFepHDA1?pwd=i5fj#' },
     { text: '卸载工具geek', url: 'https://pan.quark.cn/s/a3110760f22b' },
     { text: '虚拟光驱', url: 'https://pan.xunlei.com/s/VNygFkDkS4T29bpo0k8yvfViA1?pwd=xs3k#' },
+    { text: 'QuickLook + Seer', url: 'https://pan.xunlei.com/s/VNywvlyi7bKVoLo6nKqsYHSJA1?pwd=fb2h#' },
 
     // ... 其他选项
 ];
