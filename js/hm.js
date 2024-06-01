@@ -540,6 +540,7 @@ const options = [
     { text: 'ArcGIS Earth 2.0', url: 'https://pan.xunlei.com/s/VNrP1Nb-R9rPrvPIK8gBJhvSA1?pwd=n4qj#' },
     { text: 'ArcGIS Pro 3.01', url: 'https://pan.xunlei.com/s/VNrP1YMeDxIe75GXSKwaozilA1?pwd=vg2h#' },
     { text: 'ArcGIS 10.8.2', url: 'https://pan.xunlei.com/s/VNrP1dd0R9rPrvPIK8gBJmh5A1?pwd=r7t3#' },
+    { text: 'Enscape 4.1', url: 'https://pan.xunlei.com/s/VNzGomnHwoZJxhvQRI5LD3lDA1?pwd=wq8a#' },
     { text: 'Enscape 3.56', url: 'https://pan.xunlei.com/s/VNrPC7O4YZ4JcJVfOWpl50LKA1?pwd=czet#' },
     { text: 'Enscape 3.4', url: 'https://pan.xunlei.com/s/VNrPCQ4OjahERweBq7bvvfKiA1?pwd=2786#' },
     { text: 'Enscape 3.3', url: 'https://pan.xunlei.com/s/VNrPC_zRfKxh4k0KGYtrqeU0A1?pwd=rkkz#' },
@@ -702,6 +703,7 @@ const options = [
     { text: '卸载工具geek', url: 'https://pan.quark.cn/s/a3110760f22b' },
     { text: '虚拟光驱', url: 'https://pan.xunlei.com/s/VNygFkDkS4T29bpo0k8yvfViA1?pwd=xs3k#' },
     { text: 'QuickLook + Seer', url: 'https://pan.xunlei.com/s/VNywvlyi7bKVoLo6nKqsYHSJA1?pwd=fb2h#' },
+    { text: 'EasyDrv 8（VIP版）', url: 'https://pan.xunlei.com/s/VNzGkPRYyYUnN2Iw-v8319rBA1?pwd=rcih#' },
 
     // ... 其他选项
 ];
