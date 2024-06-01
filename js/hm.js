@@ -262,6 +262,7 @@ const options = [
     { text: 'Photoshop Elements 2020', url: 'https://pan.xunlei.com/s/VNq5GawLV5tOoEsI5Z5a5rSiA1?pwd=ncsb#' },
     { text: 'Premiere mac版本', url: 'https://pan.xunlei.com/s/VNv2sm13ILtkqXQYuqYI6JB2A1?pwd=bjwq#' },
     { text: 'pr 插件一键安装板', url: 'https://pan.xunlei.com/s/VNwm9JGUC5hipr1kfg59jHjSA1?pwd=ekhp#' },
+    { text: 'Premiere 2024 24.4.1', url: 'https://pan.xunlei.com/s/VNzKEIqjTZFwhtNgFMYetYjhA1?pwd=7q4j#' },
     { text: 'Premiere 2024', url: 'https://pan.quark.cn/s/8e64341b3ab7' },
     { text: 'Premiere 2023', url: 'https://pan.quark.cn/s/4e6fbee0c052' },
     { text: 'Premiere 2022', url: 'https://pan.quark.cn/s/e11007fd2cd6' },
