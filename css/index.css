@@ -544,7 +544,7 @@ footer {
 
     .lad1 {
         position: absolute;
-        top: 220px;
+        top: 30px;
         margin-left: -2px;
         display: none;
     }
@@ -561,7 +561,7 @@ footer {
 
     .lad2 {
         position: absolute;
-        top: 270px;
+        top: 80px;
         margin-left: -2px;
         display: none;
     }
