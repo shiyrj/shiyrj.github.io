@@ -250,6 +250,7 @@ const options = [
     { text: 'adobe40全家桶激活工具及教程', url: 'https://pan.xunlei.com/s/VNobsChSwBl3UuWkgN6T9-n9A1?pwd=yq27#' },
     { text: 'Photoshop（ps）mac版本', url: 'https://pan.xunlei.com/s/VNv2sS24NyQ75WfhSX8Ic53aA1?pwd=fer7#' },
     { text: 'Photoshop（ps）插件一键安装板', url: 'https://pan.xunlei.com/s/VNvrIytOp-_r1h9Ud5e6LjSFA1?pwd=4r5f#' },
+    { text: '代替创成式填充的插件 Alpaca 2.9.2', url: 'https://pan.xunlei.com/s/VO-fP5FLHHxq-uAD0PZc0Pl9A1?pwd=64hw#' },
     { text: 'Photoshop（ps）25.9集成sd(支持中文AI和神经滤镜)', url: 'https://pan.xunlei.com/s/VNzzwNyfaFWHevcdumeduyrtA1?pwd=5yj4#' },
     { text: 'Photoshop（ps）2024 25.10', url: 'https://pan.xunlei.com/s/VNy0ejzxaZ-uElAU_R2HVw8mA1?pwd=h4n9#' },
     { text: 'Photoshop（ps）2024 25.9', url: 'https://pan.xunlei.com/s/VNy_XYeXZ2GgWxPqWCD2T0oqA1?pwd=x59p#' },
