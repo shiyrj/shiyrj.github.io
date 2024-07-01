@@ -1,8 +1,9 @@
 const searchInput = document.getElementById('searchInput');
 const dropdownMenu = document.getElementById('dropdown');
 const options = [
+    { text: 'Stable Diffusion（SD）3', url: 'https://pan.quark.cn/s/8fc8cf6850d8' },
     { text: 'Stable Diffusion（SD）', url: 'https://pan.quark.cn/s/971c7f41c685' },
-    { text: 'AI绘画关键词', url: 'https://pan.quark.cn/s/ba48b90eb11f' },
+    { text: 'SD绘画关键词', url: 'https://pan.quark.cn/s/ba48b90eb11f' },
     { text: 'office 白嫖神器', url: 'https://pan.xunlei.com/s/VNv2r1eVxliNst19L1IRAMFIA1?pwd=y4vk#' },
     { text: 'Office Installer Plus', url: 'https://pan.xunlei.com/s/VNvrI4QLfz6guXqO8J11KApkA1?pwd=jr2k#' },
     { text: 'Microsoft 365', url: 'https://pan.xunlei.com/s/VNv2qz1HoqTQutMQx_ElsMm8A1?pwd=ra7n#' },
