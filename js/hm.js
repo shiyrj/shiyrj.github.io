@@ -38,6 +38,7 @@ const options = [
     { text: 'WPS 2023(内置激活码)', url: 'https://pan.xunlei.com/s/VNy-YDg3eyM1zSKBPG9q145aA1?pwd=crgm#' },
     { text: 'WPS 2022(内置激活码)', url: 'https://pan.xunlei.com/s/VNy-YFuMGLVYv5ikWyMHEMSgA1?pwd=6mjc#' },
     { text: 'WPS 2021(内置激活码)', url: 'https://pan.xunlei.com/s/VNy-YIzbKTrOaTb2Yb3OsqYWA1?pwd=hx8t#' },
+    { text: 'Xmind 2024', url: 'https://pan.xunlei.com/s/VO1-xTvv_ha8pjcfOIqVBweMA1?pwd=dmgp#' },
     { text: 'Xmind 2023', url: 'https://pan.xunlei.com/s/VNo2_1KAwbqrwdFzLNrM98CiA1?pwd=8z7i' },
     { text: 'Xmind 2022', url: 'https://pan.xunlei.com/s/VNo2_azpkWI4htKtXyQzpLznA1?pwd=gtrq' },
     { text: 'Xmind 2021', url: 'https://pan.xunlei.com/s/VNo2_iUe-HyngSRUD7OEzYszA1?pwd=qwxz' },
