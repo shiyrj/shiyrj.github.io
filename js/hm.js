@@ -259,6 +259,7 @@ const options = [
     { text: 'Adobe 2019全家桶', url: 'https://pan.xunlei.com/s/VNrA0w1mC3DWufWRhvGfj9NgA1?pwd=rjud#' },
     { text: 'Adobe 2018全家桶', url: 'https://pan.xunlei.com/s/VNrA1-8dqGsvO8IvWyPaZql4A1?pwd=sevd#' },
     { text: 'adobe40全家桶激活工具及教程', url: 'https://pan.xunlei.com/s/VNobsChSwBl3UuWkgN6T9-n9A1?pwd=yq27#' },
+    { text: 'Photoshop（ps）手机直装版', url: 'https://pan.quark.cn/s/521b23642571' },
     { text: 'Photoshop（ps）mac版本', url: 'https://pan.xunlei.com/s/VNv2sS24NyQ75WfhSX8Ic53aA1?pwd=fer7#' },
     { text: 'Photoshop（ps）插件一键安装板', url: 'https://pan.xunlei.com/s/VNvrIytOp-_r1h9Ud5e6LjSFA1?pwd=4r5f#' },
     { text: '代替创成式填充的插件 Alpaca 2.9.2', url: 'https://pan.xunlei.com/s/VO-fP5FLHHxq-uAD0PZc0Pl9A1?pwd=64hw#' },
