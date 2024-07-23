@@ -469,6 +469,7 @@ const options = [
     { text: 'typora 1.7.6', url: 'https://pan.xunlei.com/s/VNrPwcD0uWJdjRHXwx-hqqfLA1?pwd=xxuq#' },
     { text: 'typora 1.6.5', url: 'https://pan.xunlei.com/s/VNrPwjg5eg_odP_8bPXl5ffLA1?pwd=mafz#' },
     { text: 'typora 1.5.6', url: 'https://pan.xunlei.com/s/VNrPwoEHDNDzvYJQ6WPkB5zBA1?pwd=m9u3#' },
+    { text: 'CINEMA 4D（C4D）2024.5.0', url: 'https://pan.xunlei.com/s/VO2T68ssXgyxwKqfN8PG7xw8A1?pwd=cp9g#' },
     { text: 'CINEMA 4D（C4D）2024', url: 'https://pan.xunlei.com/s/VNqa7oeth2Dk2j6izHdevBKZA1?pwd=p62g#' },
     { text: 'CINEMA 4D（C4D）2023', url: 'https://pan.xunlei.com/s/VNo2-n7gWqvs9ceE_QFyxMlIA1?pwd=v5ht' },
     { text: 'CINEMA 4D（C4D）S26', url: 'https://pan.xunlei.com/s/VNo20L1k0l_fOYP_iNbf2hUaA1?pwd=2krg' },
