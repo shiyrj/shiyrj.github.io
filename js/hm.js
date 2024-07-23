@@ -396,7 +396,7 @@ const options = [
     { text: 'InDesign（ID）2018', url: 'https://pan.xunlei.com/s/VNrA1ng7oXh0FhgZXKSMK9MlA1?pwd=m6an#' },
     { text: 'InDesign（ID）2017', url: 'https://pan.xunlei.com/s/VNrA1rgp42v7UYp4Dc8xBUJnA1?pwd=wy6t#' },
     { text: 'Lightroom Classic（LRC）mac版本', url: 'https://pan.xunlei.com/s/VNv2t_5z6PXH7aJ35c7OxQk1A1?pwd=wn5j#' },
-    { text: 'Lightroom Classic（LRC）手机版', url: 'https://pan.quark.cn/s/d1f397467a43' },
+    { text: 'Lightroom Classic（LRC）手机版', url: 'https://pan.quark.cn/s/6a0662d41aeb' },
     { text: 'Lightroom Classic（LRC）2024', url: 'https://pan.xunlei.com/s/VNtV4-0FuW16lvT7afc5PxKhA1?pwd=k4yu#' },
     { text: 'Lightroom Classic（LRC）2023', url: 'https://pan.quark.cn/s/18a3bab7b822' },
     { text: 'Lightroom Classic（LRC）2022', url: 'https://pan.quark.cn/s/4e92a5651291' },
