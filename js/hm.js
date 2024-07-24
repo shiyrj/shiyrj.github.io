@@ -503,7 +503,7 @@ const options = [
     { text: 'SketchUp（SU）2019', url: 'https://pan.xunlei.com/s/VNo2dmny97kTBWzQWgZWgSPTA1?pwd=rhpv' },
     { text: 'SketchUp（SU）2018', url: 'https://pan.xunlei.com/s/VNo2dsHcoJyL_PRv1h2YBcxWA1?pwd=dkc3' },
     { text: 'SketchUp（SU）教程', url: 'https://pan.quark.cn/s/d5eb5fdd856a' },
-    { text: 'SolidWorks（SW）2024SP3.1', url: 'https://pan.xunlei.com/s/VO1uaCssUHOkfY8g1rLluuXPA1#' },
+    { text: 'SolidWorks（SW）2024SP3.1', url: 'https://pan.xunlei.com/s/VO1uaCssUHOkfY8g1rLluuXPA1?pwd=bs9y#' },
     { text: 'SolidWorks（SW）2024', url: 'https://pan.xunlei.com/s/VNrA3djDNDMcd-r1o-0nd1sdA1?pwd=ydcb#' },
     { text: 'SolidWorks（SW）2023', url: 'https://pan.xunlei.com/s/VNo2iUBloIJH9sq4VQ8AGCKRA1?pwd=3cni' },
     { text: 'SolidWorks（SW）2022', url: 'https://pan.xunlei.com/s/VNo2id_2Dfjgkx4DmSC3zgXrA1?pwd=8yup' },
