@@ -315,6 +315,7 @@ const options = [
     { text: 'Premiere Elements 2022', url: 'https://pan.xunlei.com/s/VNq5IN3lyqSl9wV3Bcf1koOWA1?pwd=8nux#' },
     { text: 'Premiere Elements 2021', url: 'https://pan.xunlei.com/s/VNq5IQYHr4K4HWnNWR7zegd4A1?pwd=qa59#' },
     { text: 'Acrobat 增效工具5.0中文版', url: 'https://pan.quark.cn/s/cb1f1051a3f9' },
+    { text: 'Acrobat 2024 一键安装解锁版', url: 'https://pan.xunlei.com/s/VO3lD7jM8-W4fRuplIMCTKaCA1?pwd=y92x#' },
     { text: 'Acrobat 2024', url: 'https://pan.xunlei.com/s/VNudty76y7mUgXwCAKKdh-aGA1?pwd=mpzc#' },
     { text: 'Acrobat 2023', url: 'https://pan.quark.cn/s/c5f96f89536a' },
     { text: 'Acrobat 2022', url: 'https://pan.quark.cn/s/c8385af96b53' },
@@ -539,7 +540,7 @@ const options = [
     { text: 'Blender 3.3', url: 'https://pan.xunlei.com/s/VNo7U2Gc0l_fOYP_iNbg8FzHA1?pwd=dkem' },
     { text: 'Blender 3.0', url: 'https://pan.xunlei.com/s/VNo7U8KaXdonbUcTnYCeF4H2A1?pwd=wbgn' },
     { text: 'CATIA Composer 2024', url: 'https://pan.xunlei.com/s/VNrhd_kVZXk0dNphYJqBHvRmA1?pwd=vfq7#' },
-    { text: 'Catia P3 V5-6R 2020', url: 'https://pan.xunlei.com/s/VNrhdcE_MhkQma3-AfPuKzg7A1?pwd=arsq#' },
+    { text: 'Catia P3 V5-6R 2020', url: 'https://pan.xunlei.com/s/VO3lCcftg0OtKUo8KFP39GfhA1?pwd=bmr2#' },
     { text: 'Creo 11', url: 'https://pan.xunlei.com/s/VNx_e1bQjE3V6l_36sRfmzm8A1?pwd=vkd4#' },
     { text: 'Creo 10', url: 'https://pan.xunlei.com/s/VNs75JJoKmBZXpffJiQsBdTNA1?pwd=ca5i#' },
     { text: 'Creo 9', url: 'https://pan.xunlei.com/s/VNv2zuZRN5ahD_-qxZ2r4IBhA1?pwd=dk4q#' },
@@ -565,6 +566,7 @@ const options = [
     { text: 'EDIUS 8.5', url: 'https://pan.xunlei.com/s/VNo7XLQ1UppUNeRsoJ4HQnXmA1?pwd=n3in' },
     { text: 'EDIUS 6.5', url: 'https://pan.xunlei.com/s/VNo7XQaXMLVS4SOd36eSdHf7A1?pwd=ebwr' },
     { text: '达芬奇 17.4.6 mac版', url: 'https://pan.xunlei.com/s/VNywuaNi7IbTJWjuiZdA5CJ-A1?pwd=u39t#' },
+    { text: '达芬奇19.0.0.59', url: 'https://pan.xunlei.com/s/VO3lCqEHvud3BN2tWS-Kyec9A1?pwd=493x#' },
     { text: '达芬奇19.0.0.51', url: 'https://pan.xunlei.com/s/VO29N6C_Ai9X9NkwlqiYm1x2A1?pwd=9xkb#' },
     { text: '达芬奇19B4无闪烁版', url: 'https://pan.xunlei.com/s/VO0tX05RgWcB6WL40tlp2p-9A1?pwd=6ppj#' },
     { text: '达芬奇19.0.0.33无闪烁版', url: 'https://pan.xunlei.com/s/VNywuQLcCwBzRgzSAZeK-pguA1?pwd=skw9#' },
@@ -769,6 +771,11 @@ const options = [
     { text: 'Luminar Neo(mac版本)', url: 'https://pan.xunlei.com/s/VO0XBzTUjc7kuo1VODiP288EA1?pwd=gdtn#' },
     { text: 'Luminar Neo 1.20', url: 'https://pan.xunlei.com/s/VO0X7osDj8KphooNsenINkEYA1?pwd=dnqv#' },
     { text: 'Luminar Neo 1.19', url: 'https://pan.xunlei.com/s/VO0X7uGXBPYfXw2Rn2qDCW8XA1?pwd=5ia8#' },
+    { text: '斯沃7.2', url: 'https://pan.xunlei.com/s/VO3lGQVbQtt4ZKDiZKFuYaV3A1?pwd=b22u#' },
+    { text: '西门子模拟器', url: 'https://pan.xunlei.com/s/VO0X7uGXBPYfXw2Rn2qDCW8XA1?pwd=5ia8#' },
+    { text: '新代五轴模拟器', url: 'https://pan.xunlei.com/s/VO3lFuPT876BnrR5fGJb7rlAA1?pwd=ju6y#' },
+    { text: '新代车铣复合模拟器', url: 'https://pan.xunlei.com/s/VO3lG-M1uie0UQdkoYDW5xn6A1?pwd=x425#' },
+    { text: '海德汉530模拟器', url: 'https://pan.xunlei.com/s/VO3lGCZPUgRJ9bhAhcYYNpwDA1?pwd=kzvb#' },
 
     // ... 其他选项
 ];
