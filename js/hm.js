@@ -577,6 +577,7 @@ const options = [
     { text: '达芬奇19B4无闪烁版', url: 'https://pan.xunlei.com/s/VO0tX05RgWcB6WL40tlp2p-9A1?pwd=6ppj#' },
     { text: '达芬奇19.0.0.33无闪烁版', url: 'https://pan.xunlei.com/s/VNywuQLcCwBzRgzSAZeK-pguA1?pwd=skw9#' },
     { text: '达芬奇 19', url: 'https://pan.xunlei.com/s/VNvbiVDmHD00qncnjcMKKI6kA1?pwd=y27s#' },
+    { text: '达芬奇 18.6.6', url: 'https://pan.xunlei.com/s/VO4BGZa6OUsFN18FXXb226lNA1?pwd=epnf#' },
     { text: '达芬奇 18.6.3', url: 'https://pan.xunlei.com/s/VNuNPHiw_4atcXK51_QbvZc_A1?pwd=p9a2#' },
     { text: '达芬奇 18.5', url: 'https://pan.xunlei.com/s/VNo7bMtaMLVS4SOd36eSerVuA1?pwd=8394' },
     { text: '达芬奇 18.0', url: 'https://pan.xunlei.com/s/VNo7bRtxs3zIwXW9gJUuuRlFA1?pwd=nhei' },
