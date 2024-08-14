@@ -60,6 +60,7 @@ const options = [
     { text: 'Origin 2018', url: 'https://pan.xunlei.com/s/VNo6FAvXoJyL_PRv1h2Yo6hEA1?pwd=k2j5' },
     { text: 'Origin 2017', url: 'https://pan.xunlei.com/s/VNrA7Y9Ke9VnB2l-oPB5iWh5A1?pwd=pcei#' },
     { text: 'Origin视频教程', url: 'https://pan.quark.cn/s/ff50ea296100' },
+    { text: 'Matlab 2024A', url: 'https://pan.xunlei.com/s/VO4G2iS3b7yi3DgovT_EXhQ6A1?pwd=9bfh#' },
     { text: 'Matlab 2023B', url: 'https://pan.xunlei.com/s/VNo6GkomhR6CsLIoopEod4SOA1?pwd=vri8' },
     { text: 'Matlab 2023A', url: 'https://pan.xunlei.com/s/VNo6GrtlMLVS4SOd36eSMDshA1?pwd=nsjn' },
     { text: 'Matlab 2022B', url: 'https://pan.xunlei.com/s/VNo6H4V7i7Wtop60ZlxqUHuwA1?pwd=iejy' },
