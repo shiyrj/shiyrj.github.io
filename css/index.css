@@ -579,11 +579,11 @@ footer {
 
 @media screen and (max-width: 1080px) {
     .header {
-        height: 240px;
+        height: 140px;
     }
 
     .logo img {
-        height: 242px;
+        height: 142px;
         width: 400px;
     }
 }
