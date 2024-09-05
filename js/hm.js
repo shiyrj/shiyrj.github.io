@@ -802,6 +802,7 @@ const options = [
     { text: 'CIMCO Edit 2023', url: 'https://pan.xunlei.com/s/VO45wOmad8AMSfKyHbYpxjrGA1?pwd=3nf4#' },
     { text: 'CIMCO Edit 2022', url: 'https://pan.xunlei.com/s/VO45wRABs4NPoRE_ol4zKp77A1?pwd=cgp9#' },
     { text: 'EndNote 21.4', url: 'https://pan.xunlei.com/s/VO4QkFgb5PgyoT6OPXd1u1DSA1?pwd=e8br#' },
+    { text: 'AxMath 2.6', url: 'https://pan.xunlei.com/s/VO60KPRHB12AhPCXnahhiLJlA1?pwd=jk3s#' },
 
     // ... 其他选项
 ];
