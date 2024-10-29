@@ -55,7 +55,7 @@ const options = [
     { text: 'SPSS 23', url: 'https://pan.xunlei.com/s/VO7mPLX5kMiTBWiAWbcOJmiQA1?pwd=dxv8#' },
     { text: 'SPSS 22', url: 'https://pan.xunlei.com/s/VO7mPNkJx0rkPoaEBOfUgnSSA1?pwd=zjmj#' },
     { text: 'SPSS视频教程', url: 'https://pan.quark.cn/s/a3a9c6f85755' },
-    { text: 'Origin 2024', url: 'https://pan.xunlei.com/s/VNyfbvOO2SeInWSWTDa50sBqA1?pwd=mhqu#' },
+    { text: 'Origin 2024', url: 'https://pan.xunlei.com/s/VOAMX1wBI4RHNmN5x4mfd-ppA1?pwd=6i83#' },
     { text: 'Origin 2022', url: 'https://pan.xunlei.com/s/VNv2rKLCFRyhSGY7pwhBT9AeA1?pwd=psd8#' },
     { text: 'Origin 2021', url: 'https://pan.xunlei.com/s/VNv2vK_bjdqRfzGgjZME5JZVA1?pwd=b9y2#' },
     { text: 'Origin 2019', url: 'https://pan.xunlei.com/s/VNo6F4eOLWH3wa_PUiq2mgbGA1?pwd=cewy' },
@@ -833,6 +833,15 @@ const options = [
     { text: 'Xshell 8', url: 'https://pan.xunlei.com/s/VO90Xs2h1LXV4IvAhqyC8ug_A1?pwd=ekyj#' },
     { text: 'Xftp 8', url: 'https://pan.xunlei.com/s/VO90XxsMxK0WCFdOPVqK_1r_A1?pwd=et9s#' },
     { text: 'Xlpd 8', url: 'https://pan.xunlei.com/s/VO90Y-4jQBTAPpxRU_Hw_OYcA1?pwd=gndt#' },
+    { text: 'Zotero 7.0', url: 'https://pan.xunlei.com/s/VOAM_IB_DuC-2j8_DBZmcKtcA1?pwd=mgyc#' },
+    { text: 'NoteExpress 4.0', url: 'https://pan.xunlei.com/s/VOAMaWXMICrxUzpaHu2wa2WTA1?pwd=5grq#' },
+    { text: 'CiteSpace 6.3.1', url: 'https://pan.xunlei.com/s/VOAMaqMMGlp1DK-IMhvbS5uqA1?pwd=9678#' },
+    { text: '知云文献翻译', url: 'https://pan.xunlei.com/s/VOAMbcQRM4QiVvOwdB3je8O_A1?pwd=juce#' },
+    { text: 'CopyTranslator 11.0', url: 'https://pan.xunlei.com/s/VOAMblgPVkokUradGP97b1CJA1?pwd=jaza#' },
+    { text: 'Speech to Text for PR2025', url: 'https://pan.xunlei.com/s/VOAMmDpLNkEg_Fq1wRr9SOK-A1?pwd=86m9#' },
+    { text: 'Speech to Text for PR2024', url: 'https://pan.xunlei.com/s/VOAMmXUSNkEg_Fq1wRr9SUm-A1?pwd=stkf#' },
+    { text: 'Speech to Text for PR2023', url: 'https://pan.xunlei.com/s/VOAMma212kbZy0kO_dQyzCLgA1?pwd=fq4j#' },
+    { text: 'Speech to Text for PR2022', url: 'https://pan.xunlei.com/s/VOAMmelkwjqyoyHKf86qAmcEA1?pwd=d2pg#' },
 
     // ... 其他选项
 ];
