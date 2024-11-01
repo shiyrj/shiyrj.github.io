@@ -536,6 +536,7 @@ const options = [
     { text: 'SketchUp（SU）2019', url: 'https://pan.xunlei.com/s/VNo2dmny97kTBWzQWgZWgSPTA1?pwd=rhpv' },
     { text: 'SketchUp（SU）2018', url: 'https://pan.xunlei.com/s/VNo2dsHcoJyL_PRv1h2YBcxWA1?pwd=dkc3' },
     { text: 'SketchUp（SU）教程', url: 'https://pan.quark.cn/s/d5eb5fdd856a' },
+    { text: 'SolidWorks（SW）2024SP5.0', url: 'https://pan.xunlei.com/s/VOA_WUoIVFzs56Arorr0tRi1A1?pwd=9iph#' },
     { text: 'SolidWorks（SW）2024SP4.0', url: 'https://pan.xunlei.com/s/VO90U_rFtyTZMAkBpf2Yc98PA1?pwd=a738#' },
     { text: 'SolidWorks（SW）2024SP3.1', url: 'https://pan.xunlei.com/s/VO1uaCssUHOkfY8g1rLluuXPA1?pwd=bs9y#' },
     { text: 'SolidWorks（SW）2024', url: 'https://pan.xunlei.com/s/VNrA3djDNDMcd-r1o-0nd1sdA1?pwd=ydcb#' },
