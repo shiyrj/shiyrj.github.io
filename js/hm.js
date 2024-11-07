@@ -264,6 +264,7 @@ const options = [
     { text: 'Capture One 22', url: 'https://pan.xunlei.com/s/VNo7T0yvRiULyzATZ5QERlanA1?pwd=xkfr' },
     { text: 'Capture One 21', url: 'https://pan.xunlei.com/s/VNo7T6__uw-ei3NV34f_gkEtA1?pwd=mx3f' },
     { text: 'Adobe正版弹窗提示解决方法及卸载工具', url: 'https://pan.quark.cn/s/2c8c87ca790f' },
+    { text: 'Adobe 2025全家桶', url: 'https://pan.xunlei.com/s/VOB5rug0hSYdcDgWM9Rabd4zA1?pwd=sqbu#' },
     { text: 'Adobe 2024全家桶', url: 'https://pan.xunlei.com/s/VNqvPYjEjiKYJL6I2T5x1tEZA1?pwd=2b22#' },
     { text: 'Adobe 2023全家桶', url: 'https://pan.quark.cn/s/138467ac99c1' },
     { text: 'Adobe 2022全家桶', url: 'https://pan.xunlei.com/s/VNrA0ieY4ASlDvG20ze1GGVmA1?pwd=8mxf#' },
