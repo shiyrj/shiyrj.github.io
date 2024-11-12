@@ -329,7 +329,7 @@ const options = [
     { text: 'Acrobat 增效工具5.0中文版', url: 'https://pan.quark.cn/s/cb1f1051a3f9' },
     { text: 'Acrobat 2024 一键安装解锁版', url: 'https://pan.xunlei.com/s/VO3lD7jM8-W4fRuplIMCTKaCA1?pwd=y92x#' },
     { text: 'Acrobat 2024', url: 'https://pan.xunlei.com/s/VNudty76y7mUgXwCAKKdh-aGA1?pwd=mpzc#' },
-    { text: 'Acrobat 2023', url: 'https://pan.quark.cn/s/c5f96f89536a' },
+    { text: 'Acrobat 2023', url: 'https://pan.xunlei.com/s/VOBTbWxEdHV2yJJytpseDCqiA1?pwd=syr5#' },
     { text: 'Acrobat 2022', url: 'https://pan.quark.cn/s/c8385af96b53' },
     { text: 'Acrobat 2021', url: 'https://pan.quark.cn/s/9fff704a0d46' },
     { text: 'Acrobat 2020', url: 'https://pan.quark.cn/s/84776123cde7' },
