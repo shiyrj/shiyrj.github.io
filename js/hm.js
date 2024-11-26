@@ -411,7 +411,7 @@ const options = [
     { text: 'InCopy（IC）2018', url: 'https://pan.xunlei.com/s/VNrA2LrRp3eAVA2V9Cz7M-9aA1?pwd=j4pu#' },
     { text: 'InCopy（IC）2017', url: 'https://pan.xunlei.com/s/VNrA2Q5lvL8SUVLN2RduQuxTA1?pwd=72v7#' },
     { text: 'InDesign（ID）mac版本', url: 'https://pan.xunlei.com/s/VNvN4RiU9P-CiJX9JiixVKggA1?pwd=3k85#' },
-    { text: 'InDesign（ID）2025', url: 'https://pan.xunlei.com/s/VO9jVB0TtSCb4iIdkgDPB-P5A1?pwd=pp3a#' },
+    { text: 'InDesign（ID）2025', url: 'https://pan.xunlei.com/s/VOCbGYNbw0PKgLjw4EXUqWqXA1?pwd=v93r#' },
     { text: 'InDesign（ID）2024', url: 'https://pan.quark.cn/s/0a7dee88a8ca' },
     { text: 'InDesign（ID）2023', url: 'https://pan.xunlei.com/s/VNrA1Sgm8Uwryk4gFTfQC3DYA1?pwd=hcac#' },
     { text: 'InDesign（ID）2022', url: 'https://pan.xunlei.com/s/VNrA1WSepGD74swbLS8yQWpGA1?pwd=k24t#' },
