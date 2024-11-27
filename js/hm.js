@@ -680,6 +680,7 @@ const options = [
     { text: 'EPLAN Electric 2024', url: 'https://pan.xunlei.com/s/VNv2qq6KILtkqXQYuqYI5mz1A1?pwd=g4e3#' },
     { text: 'EPLAN Electric 2023', url: 'https://pan.xunlei.com/s/VNv30USCQZrfhGgUQE90rpU9A1?pwd=dzc4#' },
     { text: 'EPLAN Electric 2022', url: 'https://pan.xunlei.com/s/VNv30YJrViPDZJnmTOwAoCAtA1?pwd=f7i9#' },
+    { text: 'EPLAN Electric 2.9', url: 'https://pan.xunlei.com/s/VOCgtHFIJy4aZzM48T23sGowA1?pwd=my6c#' },
     { text: 'Proteus 8.17', url: 'https://pan.xunlei.com/s/VNv30jHgrRwqqxbivr4ZZ0jiA1?pwd=5kj9#' },
     { text: 'Proteus 8.15', url: 'https://pan.xunlei.com/s/VNqaBiMjyqSl9wV3Bcf8hlbQA1?pwd=suxb#' },
     { text: 'Proteus 8.13', url: 'https://pan.xunlei.com/s/VNqaTMq4E80w4758XWmeTu3lA1?pwd=49ec#' },
