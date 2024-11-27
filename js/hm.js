@@ -258,7 +258,7 @@ const options = [
     { text: 'IntelliJ GoLand 2024', url: 'https://pan.xunlei.com/s/VOBVrRxEamoAfq_9v0mTVowqA1?pwd=63pc#' },
     { text: 'IntelliJ GoLand 2023', url: 'https://pan.quark.cn/s/f5897be83a04' },
     { text: 'IntelliJ ReSharper C++ 2023', url: 'https://pan.quark.cn/s/d618e8a75341' },
-    { text: 'SAI2 2024', url: 'https://pan.xunlei.com/s/VNv2w-HFdBVrTvfk0c4NBV04A1?pwd=yian#' },
+    { text: 'SAI2 2024', url: 'https://pan.xunlei.com/s/VOChm6Fr0j__ytQuBxsEYg3OA1?pwd=7h65#' },
     { text: 'SAI2 2023', url: 'https://pan.xunlei.com/s/VNo7G_dluQjsmR6LqTH2eIh1A1?pwd=yzxx' },
     { text: 'SAI2 2022', url: 'https://pan.xunlei.com/s/VNo7GfsuTuj6Lyaf3L5HoCRtA1?pwd=4hah' },
     { text: 'Capture One 23', url: 'https://pan.xunlei.com/s/VNo7SvvvfeZdZbRPoRMdtX2OA1?pwd=aab5' },
