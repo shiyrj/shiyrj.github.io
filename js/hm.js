@@ -121,7 +121,7 @@ const options = [
     { text: 'AutoCAD基础版2023', url: 'https://pan.quark.cn/s/7e060a6903d1' },
     { text: 'AutoCAD基础版2022', url: 'https://pan.quark.cn/s/b00bc5ca35e6 ' },
     { text: 'AutoCAD基础版2021', url: 'https://pan.quark.cn/s/996b11bdf821' },
-    { text: 'AutoCAD基础版2020', url: 'https://pan.xunlei.com/s/VO0RpQwRQe-yYvQNSDl7xdKqA1?pwd=j9wh#' },
+    { text: 'AutoCAD基础版2020', url: 'https://pan.xunlei.com/s/VODGyS3aDQVrur8Owrq-1HN6A1?pwd=h287#' },
     { text: 'AutoCAD基础版2019', url: 'https://pan.quark.cn/s/3ddca39dd9c3' },
     { text: 'AutoCAD基础版2018', url: 'https://pan.quark.cn/s/ac73360fd622' },
     { text: 'AutoCAD基础版2017', url: 'https://pan.quark.cn/s/bd0d8e461d87' },
