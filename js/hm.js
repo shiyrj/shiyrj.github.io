@@ -116,7 +116,7 @@ const options = [
     { text: 'Autodesk全家桶激活工具及教程', url: 'https://pan.xunlei.com/s/VNobpnESE59Fjsz1fpjXrQU1A1?pwd=zydh#' },
     { text: 'AutoCAD插件包集合', url: 'https://pan.xunlei.com/s/VO0r_95rNk5ywysU0X9NhNMsA1?pwd=nfg2#' },
     { text: 'CAD快速看图', url: 'https://pan.xunlei.com/s/VO1pjJEzmG4drGdXGyUKxGdGA1?pwd=ji99#' },
-    { text: 'AutoCAD基础版2025', url: 'https://pan.xunlei.com/s/VNu7qlru5tdnsn5xrG6I5HGJA1?pwd=3sc6#' },
+    { text: 'AutoCAD基础版2025', url: 'https://pan.xunlei.com/s/VODG7iQp2cpHv51-wiPIJiE4A1?pwd=qsea#' },
     { text: 'AutoCAD基础版2024', url: 'https://pan.xunlei.com/s/VNtV42mF_8L9n5Entx5XCodkA1?pwd=qt52#' },
     { text: 'AutoCAD基础版2023', url: 'https://pan.quark.cn/s/7e060a6903d1' },
     { text: 'AutoCAD基础版2022', url: 'https://pan.quark.cn/s/b00bc5ca35e6 ' },
