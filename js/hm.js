@@ -736,7 +736,7 @@ const options = [
     { text: '剪映国际版（Win版）', url: 'https://pan.xunlei.com/s/VNy6mfpkad5Z1gEgyF4WzU8nA1?pwd=34f2#' },
     { text: '剪映手机版', url: 'https://pan.quark.cn/s/289917b28751' },
     { text: '剪映window版本', url: 'https://pan.xunlei.com/s/VO4AA5rlZCefPN6zrSqztrJHA1?pwd=smej#' },
-    { text: 'Bypass 抢票神器', url: 'https://pan.xunlei.com/s/VNvrMKEqPbtm9Q7XsUwyg072A1?pwd=zcce#' },
+    { text: '视频搬运工具', url: 'https://pan.quark.cn/s/987b67ee1eb1' },
     { text: '闪豆下载器', url: 'https://pan.xunlei.com/s/VNvrMebsUUrvGA33TFCVS5bNA1?pwd=kwr4#' },
     { text: 'B站下载工具', url: 'https://pan.xunlei.com/s/VNvrN3c4FC1b_IjfHu_NC1fQA1?pwd=fbs9#' },
     { text: '网易云音乐', url: 'https://pan.quark.cn/s/90f04c2caf13' },
