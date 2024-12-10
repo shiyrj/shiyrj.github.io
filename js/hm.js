@@ -604,6 +604,7 @@ const options = [
     { text: 'EDIUS 8.5', url: 'https://pan.xunlei.com/s/VNo7XLQ1UppUNeRsoJ4HQnXmA1?pwd=n3in' },
     { text: 'EDIUS 6.5', url: 'https://pan.xunlei.com/s/VNo7XQaXMLVS4SOd36eSdHf7A1?pwd=ebwr' },
     { text: '达芬奇17.4.6 mac版', url: 'https://pan.xunlei.com/s/VNywuaNi7IbTJWjuiZdA5CJ-A1?pwd=u39t#' },
+    { text: '达芬奇19.1.1.8直装版（安装即永久激活）', url: 'https://pan.xunlei.com/s/VODlE1HuGz-dTukKwyumigkUA1?pwd=8xxk#' },
     { text: '达芬奇19.1', url: 'https://pan.xunlei.com/s/VOC3e3fauyIylY7wlND9U9sIA1?pwd=bi77#' },
     { text: '达芬奇19.0.3', url: 'https://pan.xunlei.com/s/VO9jRv2jseIc2HxUHctu1d-dA1?pwd=ct49#' },
     { text: '达芬奇19.0.2', url: 'https://pan.xunlei.com/s/VO8gY2JoCOtPWUnRJAJhb9fgA1?pwd=cxhn#' },
