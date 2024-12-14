@@ -46,3 +46,22 @@ function imgeLazyLoad() {
         lazyload(imgs);
     };
 }
+
+// 禁止鼠标右键
+document.addEventListener('contextmenu', function (event) {
+    event.preventDefault();
+});
+
+// 禁止F12按钮（部分浏览器可能无法完全禁止）
+document.addEventListener('keydown', function (event) {
+    // F12的键码是123
+    if (event.keyCode === 123) {
+        event.preventDefault();
+        return false;
+    }
+// 也可以禁止其他常用的开发者工具快捷键，如Ctrl+Shift+I等
+    if (event.ctrlKey && event.shiftKey && event.key === 'I') {
+        event.preventDefault();
+        return false;
+    }
+});
