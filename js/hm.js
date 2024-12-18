@@ -702,6 +702,7 @@ const options = [
     { text: 'TIA（博途）Portal V17', url: 'https://pan.xunlei.com/s/VNx3Jpkrf_ucQU3ZHFA-W7QWA1?pwd=wzta#' },
     { text: 'TIA（博途）Portal V16', url: 'https://pan.xunlei.com/s/VNzzsOb23JZM0I7x1ceCYAUSA1?pwd=emt9#' },
     { text: 'TIA（博途）Portal V15', url: 'https://pan.xunlei.com/s/VNx3JyYJKXgHTGPn-FZ2792-A1?pwd=ki4h#' },
+    { text: 'COMSOL 6.3', url: 'https://pan.xunlei.com/s/VOEO8I3EZ_r2fChc4AawkihyA1?pwd=xh6q#' },
     { text: 'COMSOL 6.2', url: 'https://pan.xunlei.com/s/VNrPAk69x66gQ27KFsgcQz7TA1?pwd=x6pj#' },
     { text: 'COMSOL 6.0', url: 'https://pan.xunlei.com/s/VNrPAcK-MNpBBllToro9CZPkA1?pwd=nb9k#' },
     { text: 'Quartus II 18', url: 'https://pan.xunlei.com/s/VNrhYllDMhkQma3-AfPuJy_cA1?pwd=5jvp#' },
