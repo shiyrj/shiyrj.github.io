@@ -228,6 +228,7 @@ const options = [
     { text: 'Moldflow 2019', url: 'https://pan.xunlei.com/s/VNrQnYMejahERweBq7bwPHgWA1?pwd=guuj#' },
     { text: 'Moldflow 2018', url: 'https://pan.xunlei.com/s/VNrQnbDc6E_vieOh5a9BBPjEA1?pwd=i3hx#' },
     { text: 'adams 2020', url: 'https://pan.xunlei.com/s/VNrhfuzXPTIaXIE1SfqJ7fAqA1?pwd=cpst#' },
+    { text: 'Abaqus 2025', url: 'https://pan.xunlei.com/s/VOEoK5rPCJmpsNJPVcjsYCw4A1?pwd=sgts#' },
     { text: 'Abaqus 2024', url: 'https://pan.xunlei.com/s/VNv2zMnVvHZbggN3Sn3D1WwrA1?pwd=fs5f#' },
     { text: 'Abaqus 2023', url: 'https://pan.xunlei.com/s/VNv2zSHVZWCvFS0v75rhk2f7A1?pwd=wyq9#' },
     { text: 'Abaqus 2022', url: 'https://pan.xunlei.com/s/VNv2zVbQavYLQ0erHtRst4cMA1?pwd=spmi#' },
@@ -503,7 +504,8 @@ const options = [
     { text: 'typora 1.7.6', url: 'https://pan.xunlei.com/s/VNrPwcD0uWJdjRHXwx-hqqfLA1?pwd=xxuq#' },
     { text: 'typora 1.6.5', url: 'https://pan.xunlei.com/s/VNrPwjg5eg_odP_8bPXl5ffLA1?pwd=mafz#' },
     { text: 'typora 1.5.6', url: 'https://pan.xunlei.com/s/VNrPwoEHDNDzvYJQ6WPkB5zBA1?pwd=m9u3#' },
-    { text: 'CINEMA 4D（C4D）2024.5.0', url: 'https://pan.xunlei.com/s/VO6kzIvTbQ3fi__q9e_SQn2SA1?pwd=sbrc#' },
+    { text: 'CINEMA 4D（C4D）2025带Redshift渲染器', url: 'https://pan.xunlei.com/s/VOEoKdMTG181uFd_XPpoyosEA1?pwd=nvvm#' },
+    { text: 'CINEMA 4D（C4D）2025', url: 'https://pan.xunlei.com/s/VO6kzIvTbQ3fi__q9e_SQn2SA1?pwd=sbrc#' },
     { text: 'CINEMA 4D（C4D）2024.5.0', url: 'https://pan.xunlei.com/s/VO2T68ssXgyxwKqfN8PG7xw8A1?pwd=cp9g#' },
     { text: 'CINEMA 4D（C4D）2024', url: 'https://pan.xunlei.com/s/VNqa7oeth2Dk2j6izHdevBKZA1?pwd=p62g#' },
     { text: 'CINEMA 4D（C4D）2023', url: 'https://pan.xunlei.com/s/VNo2-n7gWqvs9ceE_QFyxMlIA1?pwd=v5ht' },
@@ -859,6 +861,8 @@ const options = [
     { text: 'Speech to Text for PR2024', url: 'https://pan.xunlei.com/s/VOAMmXUSNkEg_Fq1wRr9SUm-A1?pwd=stkf#' },
     { text: 'Speech to Text for PR2023', url: 'https://pan.xunlei.com/s/VOAMma212kbZy0kO_dQyzCLgA1?pwd=fq4j#' },
     { text: 'Speech to Text for PR2022', url: 'https://pan.xunlei.com/s/VOAMmelkwjqyoyHKf86qAmcEA1?pwd=d2pg#' },
+    { text: 'Jade 9.0', url: 'https://pan.xunlei.com/s/VOEoIrdJVssn7fnYe-Iuj8GjA1?pwd=sfdv#' },
+    { text: 'Jade 6.5', url: 'https://pan.xunlei.com/s/VNrhZk-WXJedx9CfFnXWgLXRA1?pwd=ig7u#' },
 
     // ... 其他选项
 ];
