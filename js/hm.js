@@ -861,6 +861,7 @@ const options = [
     { text: 'Speech to Text for PR2024', url: 'https://pan.xunlei.com/s/VOAMmXUSNkEg_Fq1wRr9SUm-A1?pwd=stkf#' },
     { text: 'Speech to Text for PR2023', url: 'https://pan.xunlei.com/s/VOAMma212kbZy0kO_dQyzCLgA1?pwd=fq4j#' },
     { text: 'Speech to Text for PR2022', url: 'https://pan.xunlei.com/s/VOAMmelkwjqyoyHKf86qAmcEA1?pwd=d2pg#' },
+    { text: 'Jade9.0+Findit2017+PDF4-2009', url: 'https://pan.xunlei.com/s/VOEsvsBV0BLswX26HFw2cSpSA1?pwd=hs7k#' },
     { text: 'Jade 9.0', url: 'https://pan.xunlei.com/s/VOEoIrdJVssn7fnYe-Iuj8GjA1?pwd=sfdv#' },
     { text: 'Jade 6.5', url: 'https://pan.xunlei.com/s/VNrhZk-WXJedx9CfFnXWgLXRA1?pwd=ig7u#' },
 
