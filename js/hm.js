@@ -498,6 +498,7 @@ const options = [
     { text: 'Anaconda 2019', url: 'https://pan.xunlei.com/s/VNrA5Yt_vL8SUVLN2RduS5PGA1?pwd=rv4s#' },
     { text: 'Anaconda 2018', url: 'https://pan.xunlei.com/s/VNrA5cJAe9VnB2l-oPB5howUA1?pwd=vcty#' },
     { text: 'Android Studio 2022', url: 'https://pan.xunlei.com/s/VNqaMU1EtZV1ucmoAtmBG7M_A1?pwd=r2k5#' },
+    { text: 'Typora 1.9.5', url: 'https://pan.xunlei.com/s/VOF7fNyzDVW4VmamywnbO0p0A1?pwd=u4ch#' },
     { text: 'Typora 1.9.4', url: 'https://pan.xunlei.com/s/VO0X1mwtFKQvr1ltR5weXtkmA1?pwd=mrdy#' },
     { text: 'Typora 1.9.3', url: 'https://pan.xunlei.com/s/VO0X1rSv2BrOulXaefC3GZgCA1?pwd=kcb3#' },
     { text: 'typora 1.8.5', url: 'https://pan.xunlei.com/s/VNrQbB0tDNDzvYJQ6WPkP8WoA1?pwd=xda7#' },
@@ -649,6 +650,7 @@ const options = [
     { text: 'ZBrush 2020', url: 'https://pan.xunlei.com/s/VNrPDU33mKHZd4RHTjKuHbLlA1?pwd=vgnj#' },
     { text: 'ZBrush 2019', url: 'https://pan.xunlei.com/s/VNrPDZgua7GZUUXagnCmTpGIA1?pwd=zxdk#' },
     { text: 'ZBrush 2018', url: 'https://pan.xunlei.com/s/VNrPDcvJjahERweBq7bvw088A1?pwd=3ens#' },
+    { text: 'Lumion 2024', url: 'https://pan.xunlei.com/s/VOF7f7YQcxaH22UKQAZmJU35A1?pwd=98jh#' },
     { text: 'Lumion 2023', url: 'https://pan.xunlei.com/s/VODvL44hF5BifgX0XfWTeNeTA1?pwd=s3wy#' },
     { text: 'Lumion 12', url: 'https://pan.xunlei.com/s/VNrPvSnYmpAYQ1a_o4LuKJiHA1?pwd=ttzk#' },
     { text: 'Lumion 11', url: 'https://pan.xunlei.com/s/VNrPvhDphuInkXXJaJAtXRyiA1?pwd=cdj8#' },
@@ -670,6 +672,7 @@ const options = [
     { text: 'multisim 14.0', url: 'https://pan.xunlei.com/s/VNqaStcHFJ9XqL05KHqPrdT5A1?pwd=ty6r#' },
     { text: 'multisim 13.0', url: 'https://pan.xunlei.com/s/VNqaSydCD1pVjHF1OvdpnXWOA1?pwd=nu2t#' },
     { text: 'multisim 12.0', url: 'https://pan.xunlei.com/s/VNqaT1yHM5pQALTqwjHQI486A1?pwd=75m5#' },
+    { text: 'ansys 2025', url: 'https://pan.xunlei.com/s/VOF7o9TdZkS-1pza-kQAq48lA1?pwd=qg39#' },
     { text: 'ansys 2024', url: 'https://pan.xunlei.com/s/VNudkj9ozxCVmPlfOOZ7YUmWA1?pwd=ftbr#' },
     { text: 'ansys 2023', url: 'https://pan.xunlei.com/s/VNo6KSVQwYPUTOXGEbjUwm38A1?pwd=pjmd' },
     { text: 'ansys 2022', url: 'https://pan.xunlei.com/s/VNo6KZK3jLWq4F3YV8zKE3-dA1?pwd=ipnd' },
@@ -864,6 +867,7 @@ const options = [
     { text: 'Jade9.0+Findit2017+PDF4-2009', url: 'https://pan.xunlei.com/s/VOEsvsBV0BLswX26HFw2cSpSA1?pwd=hs7k#' },
     { text: 'Jade 9.0', url: 'https://pan.xunlei.com/s/VOEoIrdJVssn7fnYe-Iuj8GjA1?pwd=sfdv#' },
     { text: 'Jade 6.5', url: 'https://pan.xunlei.com/s/VNrhZk-WXJedx9CfFnXWgLXRA1?pwd=ig7u#' },
+    { text: 'Sketchpad 5.0.6', url: 'https://pan.xunlei.com/s/VOF7nknEDVW4VmamywnbTcyXA1?pwd=6xgz#' },
 
     // ... 其他选项
 ];
