@@ -94,6 +94,7 @@ const options = [
     { text: 'Maple 2019', url: 'https://pan.xunlei.com/s/VNrP-hri1hMCgOOpSkSm7k8qA1?pwd=ay9d#' },
     { text: 'Maple 2018', url: 'https://pan.xunlei.com/s/VNrP-lOkMNpBBllToro99EjJA1?pwd=dreh#' },
     { text: 'Maple 2017', url: 'https://pan.xunlei.com/s/VNrP-pdvujPl8FFM8LjjAkrIA1?pwd=hj8w#' },
+    { text: 'Edraw Max 14', url: 'https://pan.xunlei.com/s/VOFH4U-eyF5B6KsYWx4r3bjpA1?pwd=r335#' },
     { text: 'Edraw Max 13', url: 'https://pan.xunlei.com/s/VNrPxd7VhiW5QbNAVLBNmKTxA1?pwd=8dk7#' },
     { text: 'Edraw Max 12', url: 'https://pan.xunlei.com/s/VNrPxhdWiSpyHx_xfY_by4xQA1?pwd=85gd#' },
     { text: 'Edraw Max 10', url: 'https://pan.xunlei.com/s/VNrPxl0dlzFliqoyzAkuxPiTA1?pwd=6e4r#' },
