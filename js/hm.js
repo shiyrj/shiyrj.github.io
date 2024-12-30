@@ -870,6 +870,7 @@ const options = [
     { text: 'Jade 9.0', url: 'https://pan.xunlei.com/s/VOEoIrdJVssn7fnYe-Iuj8GjA1?pwd=sfdv#' },
     { text: 'Jade 6.5', url: 'https://pan.xunlei.com/s/VNrhZk-WXJedx9CfFnXWgLXRA1?pwd=ig7u#' },
     { text: 'Sketchpad 5.0.6', url: 'https://pan.xunlei.com/s/VOF7nknEDVW4VmamywnbTcyXA1?pwd=6xgz#' },
+    { text: 'window系统和office激活工具', url: 'https://pan.xunlei.com/s/VOFLaZawN7lsZqtqalaWjOB-A1?pwd=iijp#' },
 
     // ... 其他选项
 ];
