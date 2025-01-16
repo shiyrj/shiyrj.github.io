@@ -315,8 +315,9 @@ i.iconfont {
 
 .lad {
     position: absolute;
-    top: 400px;
-    margin-left: 10px;
+    top: 170px;
+    /*margin-left: 10px;*/
+    margin-left: 79.5%;
     display: none;
     width: 19%;
 }
