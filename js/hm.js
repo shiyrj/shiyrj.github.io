@@ -872,6 +872,8 @@ const options = [
     { text: 'Sketchpad 5.0.6', url: 'https://pan.xunlei.com/s/VOF7nknEDVW4VmamywnbTcyXA1?pwd=6xgz#' },
     { text: 'window系统和office激活工具', url: 'https://pan.xunlei.com/s/VOFLaZawN7lsZqtqalaWjOB-A1?pwd=iijp#' },
 
+    { text: 'ChemDraw 23', url: 'https://pan.xunlei.com/s/VOIkJGNKieZUx9yH6CNMTS12A1?pwd=i5w2#' },
+
     // ... 其他选项
 ];
 
