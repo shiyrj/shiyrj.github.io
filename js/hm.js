@@ -746,9 +746,9 @@ const options = [
     { text: 'WinRAR', url: 'https://pan.xunlei.com/s/VOCfbjEQevaTGDLXA-LGN7C_A1?pwd=t4id#' },
     { text: 'Solid Edge 2025', url: 'https://pan.xunlei.com/s/VOCfd2XbevaTGDLXA-LGNXV6A1?pwd=jatj#' },
     { text: 'Solid Edge 2024', url: 'https://pan.xunlei.com/s/VOCfd4TfQujy-dhM3WTUQEzEA1?pwd=zin4#' },
-    // { text: 'MathType 7.7', url: 'https://pan.xunlei.com/s/VNwTyGEAB9GPSEtCyUEoUA4YA1?pwd=z8sb#' },
-    // { text: 'MathType 7.4', url: 'https://pan.xunlei.com/s/VNwTyLX-w-Qq-Zi4RKNij-6LA1?pwd=dsi8#' },
-    // { text: 'MathType 6.9', url: 'https://pan.xunlei.com/s/VNwTyQB8cTOAOE7Tsmjx7RTWA1?pwd=asaf#' },
+    { text: 'MathType 7.7', url: 'https://pan.xunlei.com/s/VNwTyGEAB9GPSEtCyUEoUA4YA1?pwd=z8sb#' },
+    { text: 'MathType 7.4', url: 'https://pan.xunlei.com/s/VNwTyLX-w-Qq-Zi4RKNij-6LA1?pwd=dsi8#' },
+    { text: 'MathType 6.9', url: 'https://pan.xunlei.com/s/VNwTyQB8cTOAOE7Tsmjx7RTWA1?pwd=asaf#' },
     { text: '酷我音乐', url: 'https://pan.quark.cn/s/573df4272fb1' },
     { text: '落雪音乐', url: 'https://pan.quark.cn/s/4a96be766f31' },
     { text: '方格音乐', url: 'https://pan.quark.cn/s/f2e9faabb65c' },
@@ -865,6 +865,20 @@ const options = [
     { text: 'window系统和office激活工具', url: 'https://pan.xunlei.com/s/VOFLaZawN7lsZqtqalaWjOB-A1?pwd=iijp#' },
 
     { text: 'ChemDraw 23', url: 'https://pan.xunlei.com/s/VOIkJGNKieZUx9yH6CNMTS12A1?pwd=i5w2#' },
+
+    { text: 'SPSS 27', url: 'https://pan.xunlei.com/s/VO7mPAviCmHMz6_PesOIyWtWA1?pwd=yavf#' },
+    { text: 'SPSS 26', url: 'https://pan.xunlei.com/s/VO7mPGBHYi0ttAtTLYH6a9mLA1?pwd=wif8#' },
+    { text: 'SPSS 25', url: 'https://pan.xunlei.com/s/VO7mPDNZYi0ttAtTLYH6a92aA1?pwd=t6kj#' },
+    { text: 'SPSS 24', url: 'https://pan.xunlei.com/s/VO7mPJD3PfPHfb-1frJ-KNk9A1?pwd=q6jr#' },
+    { text: 'SPSS 23', url: 'https://pan.xunlei.com/s/VO7mPLX5kMiTBWiAWbcOJmiQA1?pwd=dxv8#' },
+    { text: 'SPSS 22', url: 'https://pan.xunlei.com/s/VO7mPNkJx0rkPoaEBOfUgnSSA1?pwd=zjmj#' },
+    { text: 'SPSS 27', url: 'https://pan.xunlei.com/s/VOAhBjwhQzDSnT2515fgMuRHA1?pwd=f9bp#' },
+    { text: 'SPSS 26', url: 'https://pan.xunlei.com/s/VOAhBpU0-7-iZ2UpTeLLf8GXA1?pwd=bwya#' },
+    { text: 'SPSS 25', url: 'https://pan.xunlei.com/s/VOAhBsQ63PGiBhN4CQQAHtWfA1?pwd=jfiz#' },
+    { text: 'SPSS 24', url: 'https://pan.xunlei.com/s/VOAhBx4Za83B8UJ0t30w2MrtA1?pwd=bmp8#' },
+    { text: 'SPSS 23', url: 'https://pan.xunlei.com/s/VOAhBzs3Pkfr8DvmexD6H28NA1?pwd=gtzs#' },
+    { text: 'SPSS 22', url: 'https://pan.xunlei.com/s/VOAhC1S3GONOT7lMRvzHX8wtA1?pwd=9hui#' },
+
 
     // ... 其他选项
 ];
