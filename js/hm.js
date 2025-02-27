@@ -534,6 +534,7 @@ const options = [
     { text: '3D Studio Max（3ds Max）2015', url: 'https://pan.xunlei.com/s/VNo2KN1x1nq1azukZl4Xmd2KA1?pwd=h2qx' },
     { text: '3D Studio Max（3ds Max）2014', url: 'https://pan.xunlei.com/s/VNo2KU80wYPUTOXGEbjUCM76A1?pwd=myjf' },
     { text: '3D Studio Max（3ds Max）教程', url: 'https://pan.quark.cn/s/90acfb3e417a' },
+    { text: 'SketchUp（SU）2025', url: 'https://pan.xunlei.com/s/VOK6dY7oA68rv99MmQBHgXDHA1?pwd=un3i#' },
     { text: 'SketchUp（SU）2024', url: 'https://pan.xunlei.com/s/VNv3-vm9rRwqqxbivr4ZYsEQA1?pwd=3vf5#' },
     { text: 'SketchUp（SU）2023', url: 'https://pan.xunlei.com/s/VNo2dE3f3__r9-0mA81lHn9oA1?pwd=xkxt' },
     { text: 'SketchUp（SU）2022', url: 'https://pan.xunlei.com/s/VNo2dSg2wbqrwdFzLNrMAg_iA1?pwd=9iye' },
