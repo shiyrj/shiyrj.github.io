@@ -488,7 +488,7 @@ footer {
         margin-left: 0;
         position: relative;
         display: inline-block;
-        width: 250px; /* 可以根据需要调整宽度 */
+        width: 180px; /* 可以根据需要调整宽度 */
     }
 
     .lad {
@@ -505,7 +505,7 @@ footer {
     .js3 a {
         height: 20px;
         display: flex;
-        width: 450px;
+        width: 380px;
         justify-content: center;
         align-items: center;
         border-bottom: 2px solid rgb(214, 218, 224);
@@ -518,7 +518,7 @@ footer {
         justify-content: center;
         align-items: center;
         color: rgb(148, 127, 32);
-        font-size: 26px;
+        font-size: 22px;
     }
 
     .js2 {
