@@ -76,22 +76,42 @@ body {
 }
 
 .jieshao {
+    #display: flex;
+    height: 170px;
+    justify-content: center;
+    align-items: center;
+}
+
+.js3 a {
+    height: 20px;
     display: flex;
-    height: 100px;
+    width: 900px;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px solid rgb(214, 218, 224);
+    padding-bottom: 15px;
+}
+
+.js1 {
+    margin-left: 38%;
+    height: 90px;
     justify-content: center;
     align-items: center;
     color: rgb(148, 127, 32);
-    font-size: 18px;
+    font-size: 48px;
 }
 
-.jieshao a {
-    height: 40px;
-    display: flex;
-    width: 700px;
+.js2 {
+    margin-left: 41%;
     justify-content: center;
     align-items: center;
-    border-bottom: 1px solid rgb(214, 218, 224);
-    padding-bottom: 15px;
+    font-size: 30px;
+}
+
+.js3 {
+    margin-left: 21%;
+    justify-content: center;
+    align-items: center;
 }
 
 .neirong {
@@ -475,8 +495,43 @@ footer {
         width: 0;
     }
 
-    .jieshao a {
-        width: 100%;
+    .jieshao {
+        #display: flex;
+        height: 110px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .js3 a {
+        height: 20px;
+        display: flex;
+        width: 450px;
+        justify-content: center;
+        align-items: center;
+        border-bottom: 2px solid rgb(214, 218, 224);
+        padding-bottom: 15px;
+    }
+
+    .js1 {
+        margin-left: 28%;
+        height: 50px;
+        justify-content: center;
+        align-items: center;
+        color: rgb(148, 127, 32);
+        font-size: 26px;
+    }
+
+    .js2 {
+        margin-left: 35%;
+        justify-content: center;
+        align-items: center;
+        font-size: 16px;
+    }
+
+    .js3 {
+        margin-left: 0;
+        justify-content: center;
+        align-items: center;
     }
 
     .dlink {

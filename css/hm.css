@@ -9,7 +9,7 @@ body {
     margin-left: 22%;
     position: relative;
     display: inline-block;
-    width: 250px; /* 可以根据需要调整宽度 */
+    width: 875px; /* 可以根据需要调整宽度 */
 }
 
 /* 输入框样式 */
@@ -62,3 +62,14 @@ body {
 .dropdown-menu a:hover {
     background-color: #f0f0f0;
 }
+
+@media screen and (max-width: 1280px) {
+    /* 当屏幕宽度小于等于1280px时应用的样式 */
+    .search-container {
+        margin-left: 0;
+        position: relative;
+        display: inline-block;
+        width: 450px; /* 可以根据需要调整宽度 */
+    }
+}
+
