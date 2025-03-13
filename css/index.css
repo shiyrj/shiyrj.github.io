@@ -499,7 +499,7 @@ footer {
     .js3 a {
         height: 20px;
         display: flex;
-        width: 380px;
+        width: 330px;
         justify-content: center;
         align-items: center;
         border-bottom: 2px solid rgb(214, 218, 224);
