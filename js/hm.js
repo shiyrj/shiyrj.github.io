@@ -483,6 +483,7 @@ const options = [
     { text: 'Visual Studio Code 2023', url: 'https://pan.xunlei.com/s/VNqaXMCL9jq75Ea01kpjOh83A1?pwd=3bi5#' },
     { text: 'devC++', url: 'https://pan.xunlei.com/s/VO7R_9oMlGmAq1cCOqjxN8ZqA1?pwd=pafx#' },
     { text: '小熊猫DevC++', url: 'https://pan.xunlei.com/s/VO7ReYRNx7c5Fz911nSURhBsA1?pwd=vciy#' },
+    { text: 'LabVIEW 2025', url: 'https://pan.xunlei.com/s/VOLMeoKUsq7iZEvjGgYXgRUUA1?pwd=pkmm#' },
     { text: 'LabVIEW 2024', url: 'https://pan.xunlei.com/s/VNy6kDsVHIID7bECYk4nkcqgA1?pwd=w867#' },
     { text: 'LabVIEW 2023', url: 'https://pan.xunlei.com/s/VNo5egm0e6JgMjMm7zY8DJgGA1?pwd=cnfp' },
     { text: 'LabVIEW 2022', url: 'https://pan.xunlei.com/s/VNo5f0Szz5fbpiLvCkYluM3UA1?pwd=rekr' },
@@ -632,6 +633,7 @@ const options = [
     { text: 'Global Mapper 23', url: 'https://pan.xunlei.com/s/VNrP0fr2Ayb9N7hggKU8QvhTA1?pwd=ajmf#' },
     { text: 'Global Mapper 22', url: 'https://pan.xunlei.com/s/VNrP0javmKHZd4RHTjKuDFtzA1?pwd=9h3e#' },
     { text: 'ArcGIS Pro 3.3', url: 'https://pan.xunlei.com/s/VO90S55J1LXV4IvAhqyC5MGPA1?pwd=586a#' },
+    { text: 'ArcGIS Pro 3.4', url: 'https://pan.xunlei.com/s/VOLMeb1QapvscF64rsOCssFjA1?pwd=5vyg#' },
     { text: 'ArcGIS 2023', url: 'https://pan.xunlei.com/s/VO90SbL-6NsbFcZIibQBvkAWA1?pwd=9e9b#' },
     { text: 'ArcGIS 10.8', url: 'https://pan.xunlei.com/s/VO90SKBGzObzLO4mndSZ8tZpA1?pwd=y6g5#' },
     { text: 'Enscape 4.4', url: 'https://pan.xunlei.com/s/VOL4IsEmJcZHWa6U2vPFC-NiA1?pwd=eu8b#' },
@@ -885,6 +887,14 @@ const options = [
     { text: 'SPSS 24', url: 'https://pan.xunlei.com/s/VOAhBx4Za83B8UJ0t30w2MrtA1?pwd=bmp8#' },
     { text: 'SPSS 23', url: 'https://pan.xunlei.com/s/VOAhBzs3Pkfr8DvmexD6H28NA1?pwd=gtzs#' },
     { text: 'SPSS 22', url: 'https://pan.xunlei.com/s/VOAhC1S3GONOT7lMRvzHX8wtA1?pwd=9hui#' },
+
+    { text: '班迪录屏', url: 'https://pan.xunlei.com/s/VOLMde1bUvgsuKeVgEAgtcYvA1?pwd=8z56#' },
+
+    { text: 'Design Expert 13', url: 'https://pan.xunlei.com/s/VOLN1iRHbM3CqwRo3OucmMxgA1?pwd=8b5c#' },
+
+    { text: 'HyperWorks 2025', url: 'https://pan.xunlei.com/s/VOLN1-trY1NkjZCR6Rwf3maEA1?pwd=y7mb#' },
+
+    { text: 'STAR-CCM+ 2502', url: 'https://pan.xunlei.com/s/VOLN2ZxdtjEWPXt8m0T41EM5A1?pwd=sg2w#' },
 
 
     // ... 其他选项
