@@ -173,14 +173,7 @@ body {
 .video-image-container{
     position: relative;
     width: 150px;
-    height: 150px;
-    margin: 0 auto;
-}
-
-.video-image-container a img{
-    position: relative;
-    width: 150px;
-    height: 120px;
+    height: 25px;
     margin: 0 auto;
 }
 
