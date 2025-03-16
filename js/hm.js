@@ -658,6 +658,7 @@ const options = [
     { text: 'Lumion 10', url: 'https://pan.xunlei.com/s/VNrPvlwwVNHPZYmCh-mALuglA1?pwd=5dqn#' },
     { text: 'Lumion 9', url: 'https://pan.xunlei.com/s/VNrPvrTC8_RkqS-lqRkbANMlA1?pwd=zdsf#' },
     { text: 'Lumion 8', url: 'https://pan.xunlei.com/s/VNrPvvt6_uKgg9hkzwApsgeiA1?pwd=8unz#' },
+    { text: 'KeyShot 2025', url: 'https://pan.xunlei.com/s/VOLTVX2laKeUkHtMlA8-KbG-A1?pwd=y24a#' },
     { text: 'KeyShot 2024.3', url: 'https://pan.xunlei.com/s/VOAqdU6WkvW6xePIesnuSBdeA1?pwd=gxsj#' },
     { text: 'KeyShot 2024', url: 'https://pan.xunlei.com/s/VNxSwy1s4CeFJ2mTzqtry2fpA1?pwd=n8d2#' },
     { text: 'KeyShot 2023', url: 'https://pan.xunlei.com/s/VNrPyUsDhuInkXXJaJAtY8LAA1?pwd=ujv3#' },
