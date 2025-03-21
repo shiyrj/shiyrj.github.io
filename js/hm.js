@@ -335,6 +335,7 @@ const options = [
     { text: 'Premiere Elements 2022', url: 'https://pan.xunlei.com/s/VNq5IN3lyqSl9wV3Bcf1koOWA1?pwd=8nux#' },
     { text: 'Premiere Elements 2021', url: 'https://pan.xunlei.com/s/VNq5IQYHr4K4HWnNWR7zegd4A1?pwd=qa59#' },
     { text: 'Acrobat 增效工具5.0中文版', url: 'https://pan.quark.cn/s/cb1f1051a3f9' },
+    { text: 'Acrobat 2025一键直装版', url: 'https://pan.xunlei.com/s/VOLrwU4zeHq9x3WlceZegquwA1?pwd=yujq#' },
     { text: 'Acrobat 2025', url: 'https://pan.xunlei.com/s/VOKfRhU3lgy34KCC_es0nKJeA1?pwd=iui6#' },
     { text: 'Acrobat 2024 一键安装解锁版', url: 'https://pan.xunlei.com/s/VO3lD7jM8-W4fRuplIMCTKaCA1?pwd=y92x#' },
     { text: 'Acrobat 2024', url: 'https://pan.xunlei.com/s/VNudty76y7mUgXwCAKKdh-aGA1?pwd=mpzc#' },
