@@ -127,6 +127,16 @@ function replaceContent(value) {
         document.getElementById("jz").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
         xhr.open('GET', 'ruanjian/jz.html'); // 设置请求类型、地址等信息
     }
+    if (value === '化学软件') {
+        removeStyle();
+        document.getElementById("huaxue").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
+        xhr.open('GET', 'ruanjian/huaxue.html'); // 设置请求类型、地址等信息
+    }
+    if (value === '医学软件') {
+        removeStyle();
+        document.getElementById("yixue").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
+        xhr.open('GET', 'ruanjian/yixue.html'); // 设置请求类型、地址等信息
+    }
     if (value === 'topaz') {
         removeStyle();
         document.getElementById("topaz").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";

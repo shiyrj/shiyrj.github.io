@@ -153,11 +153,13 @@ const options = [
     { text: 'AutoCAD建筑版2023', url: 'https://pan.quark.cn/s/e38a0a43b0ea' },
     { text: 'AutoCAD建筑版2022', url: 'https://pan.xunlei.com/s/VNrA4JxZYPeEr0uvig__Tj5AA1?pwd=vp65#' },
     { text: 'AutoCAD建筑版2021', url: 'https://pan.xunlei.com/s/VNrA4NlC2RaPyZzgSGKwIXmwA1?pwd=aiy4#' },
+    { text: 'AutoCAD电气版2026', url: 'https://pan.xunlei.com/s/VOMexn1hb0qlKE8avUD0dxSJA1?pwd=ryf8#' },
     { text: 'AutoCAD电气版2025', url: 'https://pan.xunlei.com/s/VO0X3E7CFKQvr1ltR5weYSlNA1?pwd=y3az#' },
     { text: 'AutoCAD电气版2024', url: 'https://pan.xunlei.com/s/VNrA4XSI5hEAwRot7qb0wbGJA1?pwd=6fad#' },
     { text: 'AutoCAD电气版2023', url: 'https://pan.quark.cn/s/638e55a135af' },
     { text: 'AutoCAD电气版2022', url: 'https://pan.xunlei.com/s/VNrA4aSGr0t-PVwVLqZcaDspA1?pwd=t52b#' },
     { text: 'AutoCAD电气版2021', url: 'https://pan.xunlei.com/s/VNrA4eRYD5q5kn8IZWyg1UiCA1?pwd=4n2a#' },
+    { text: 'AutoCAD机械版2026', url: 'https://pan.xunlei.com/s/VOMexOnpBoXFkDo8WpWUbxvVA1?pwd=hgfb#' },
     { text: 'AutoCAD机械版2025', url: 'https://pan.xunlei.com/s/VO0X3Qf9N_NvZm9yRJPX5H7hA1?pwd=q7jy#' },
     { text: 'AutoCAD机械版2024', url: 'https://pan.quark.cn/s/25d25f4fc727' },
     { text: 'AutoCAD机械版2023', url: 'https://pan.xunlei.com/s/VNrA4kIf8Uwryk4gFTfQDMNLA1?pwd=uvuf#' },
@@ -195,6 +197,7 @@ const options = [
     { text: 'Maya 2016', url: 'https://pan.xunlei.com/s/VNo2g4RDuQjsmR6LqTH1qEJ5A1?pwd=xu9q' },
     { text: 'Maya 2015', url: 'https://pan.xunlei.com/s/VNo2gA5W-HyngSRUD7OF0aNAA1?pwd=vwj7' },
     { text: 'maya视频教程', url: 'https://pan.quark.cn/s/cacc935e3a0f' },
+    { text: 'Inventor 2026', url: 'https://pan.xunlei.com/s/VOMffrgBjb4YSTHfIC6nqGL2A1?pwd=msdt#' },
     { text: 'Inventor 2025', url: 'https://pan.xunlei.com/s/VNv2wWzAO6q8nLjfiYx3vjJNA1?pwd=sb35#' },
     { text: 'Inventor 2024', url: 'https://pan.xunlei.com/s/VNo7ZR2B3WQeJoRSsFZfU-aVA1?pwd=sh6q' },
     { text: 'Inventor 2023', url: 'https://pan.xunlei.com/s/VNo7ZgL3zCViEQ2O8_o7z4SUA1?pwd=s37j' },
@@ -527,6 +530,7 @@ const options = [
     { text: 'CINEMA 4D（C4D）S20', url: 'https://pan.xunlei.com/s/VNo21BCst3eLKoEmwXEYnJJhA1?pwd=ign5' },
     { text: 'CINEMA 4D（C4D）S18', url: 'https://pan.xunlei.com/s/VNo21Fr4sZg6p7d4AR1Hx00pA1?pwd=cuzf' },
     { text: 'CINEMA 4D（C4D）视频教程', url: 'https://pan.quark.cn/s/e2c22977f4b1' },
+    { text: '3D Studio Max（3ds Max）2026', url: 'https://pan.xunlei.com/s/VOMevl4z_vC1xtLDN7rYcRFWA1?pwd=p6wn#' },
     { text: '3D Studio Max（3ds Max）2025', url: 'https://pan.xunlei.com/s/VNudtv_Du7HmrImYf-QpVSSOA1?pwd=9cg2#' },
     { text: '3D Studio Max（3ds Max）2024', url: 'https://pan.xunlei.com/s/VNo2IKdmuQjsmR6LqTH1iHYQA1?pwd=jspn' },
     { text: '3D Studio Max（3ds Max）2023', url: 'https://pan.xunlei.com/s/VNo2Ja3vn8d5nHT2mwTgrLl1A1?pwd=q926' },
@@ -880,6 +884,7 @@ const options = [
     { text: 'Sketchpad 5.0.6', url: 'https://pan.xunlei.com/s/VOF7nknEDVW4VmamywnbTcyXA1?pwd=6xgz#' },
     { text: 'window系统和office激活工具', url: 'https://pan.xunlei.com/s/VOFLaZawN7lsZqtqalaWjOB-A1?pwd=iijp#' },
 
+    { text: 'ChemDraw 23.1中文版', url: 'https://pan.xunlei.com/s/VOMfelsc0q7gFIuhj9cCfSkmA1?pwd=emfc#' },
     { text: 'ChemDraw 23', url: 'https://pan.xunlei.com/s/VOIkJGNKieZUx9yH6CNMTS12A1?pwd=i5w2#' },
 
     { text: 'SPSS 27', url: 'https://pan.xunlei.com/s/VO7mPAviCmHMz6_PesOIyWtWA1?pwd=yavf#' },
@@ -902,6 +907,21 @@ const options = [
     { text: 'HyperWorks 2025', url: 'https://pan.xunlei.com/s/VOLN1-trY1NkjZCR6Rwf3maEA1?pwd=y7mb#' },
 
     { text: 'STAR-CCM+ 2502', url: 'https://pan.xunlei.com/s/VOLN2ZxdtjEWPXt8m0T41EM5A1?pwd=sg2w#' },
+
+    { text: 'CrystalMaker 11.5', url: 'https://pan.xunlei.com/s/VOMeGeXlCH68-ncxsAmMHD0OA1?pwd=bpwt#' },
+    { text: '3D Slicer', url: 'https://pan.xunlei.com/s/VOMemUDdb0qlKE8avUD0ZtSjA1?pwd=ykfz#' },
+    { text: 'MestReNova 15', url: 'https://pan.xunlei.com/s/VOMenm9Zb2mtUhh9NZyZji0xA1?pwd=7pff#' },
+    { text: 'Image-Pro Plus 6.0', url: 'https://pan.xunlei.com/s/VOMeottR-g6JSo2qUpTt3BorA1?pwd=shif#' },
+    { text: 'Avantage 6.9', url: 'https://pan.xunlei.com/s/VOMeskBAb0qlKE8avUD0beCEA1?pwd=e84a#' },
+    { text: 'RadiAnt DICOM Viewer 2024', url: 'https://pan.xunlei.com/s/VOMeuPgkaW7m0c8zMZZrBd9ZA1?pwd=fg89#' },
+    { text: 'RadiAnt DICOM Viewer 2021', url: 'https://pan.xunlei.com/s/VOMeuVU1qvtvLjxKcOVOuWqKA1?pwd=87ma#' },
+    { text: 'Diamond 4.6', url: 'https://pan.xunlei.com/s/VOMeyPldrAC3WkmyL6eHDwIpA1?pwd=8rns#' },
+    { text: 'Gaussian 16', url: 'https://pan.xunlei.com/s/VOMf-9eB_zRzlnouyqNMtiaCA1?pwd=qweg#' },
+    { text: 'ImageJ FIJI', url: 'https://pan.xunlei.com/s/VOMfY_LykiZ6we2MbEEzsLkxA1?pwd=7wif#' },
+    { text: 'ImageLab', url: 'https://pan.xunlei.com/s/VOMfZgrRug5eU74JO_R3nGtLA1?pwd=632w#' },
+    { text: 'TBtools 1.1', url: 'https://pan.xunlei.com/s/VOMfeTzSAS-lEPQoVoeVwZDLA1?pwd=yx54#' },
+    { text: 'Materials Studio 2023', url: 'https://pan.xunlei.com/s/VOMffRca94_I3oQwsr1WNI02A1?pwd=jxtd#' },
+    { text: 'CST Studio Suite 2025', url: 'https://pan.xunlei.com/s/VOMfgp46AS-lEPQoVoeVxPWrA1?pwd=tam2#' },
 
 
     // ... 其他选项
