@@ -922,7 +922,7 @@ const options = [
     { text: 'TBtools 1.1', url: 'https://pan.xunlei.com/s/VOMfeTzSAS-lEPQoVoeVwZDLA1?pwd=yx54#' },
     { text: 'Materials Studio 2023', url: 'https://pan.xunlei.com/s/VOMffRca94_I3oQwsr1WNI02A1?pwd=jxtd#' },
     { text: 'CST Studio Suite 2025', url: 'https://pan.xunlei.com/s/VOMfgp46AS-lEPQoVoeVxPWrA1?pwd=tam2#' },
-    { text: 'SnapGene 8.0.1', url: 'https://pan.xunlei.com/s/VOMiWAu7HhjL486-HFxWci0HA1?pwd=rt5i#' },
+    { text: 'SnapGene 6.0.2', url: 'https://pan.xunlei.com/s/VOMjPiIj94_I3oQwsr1XxbNYA1?pwd=4r7u#' },
 
 
     // ... 其他选项
