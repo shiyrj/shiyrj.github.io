@@ -186,6 +186,7 @@ const options = [
     { text: 'Civil3D 2022', url: 'https://pan.xunlei.com/s/VNo2ZE5OzCViEQ2O8_o71AI-A1?pwd=syza' },
     { text: 'Civil3D 2021', url: 'https://pan.xunlei.com/s/VNo2ZPris3zIwXW9gJUtwI-aA1?pwd=ihhi' },
     { text: 'Civil3D 2020', url: 'https://pan.xunlei.com/s/VNo2ZWp655ZeXzdL87t2cAidA1?pwd=vv9y' },
+    { text: 'Maya 2026', url: 'https://pan.xunlei.com/s/VOMpLpcG74LIdBrQwZo8r1XNA1?pwd=7iad#' },
     { text: 'Maya 2025', url: 'https://pan.xunlei.com/s/VNv2w9S3992dyeUIv63XKbu2A1?pwd=3bdn#' },
     { text: 'Maya 2024', url: 'https://pan.xunlei.com/s/VNo2f6qFQXQ7pJ_0gz9SacavA1?pwd=hckm' },
     { text: 'Maya 2023', url: 'https://pan.xunlei.com/s/VNo2fNdO9jdW7ZxaKkVXKUwfA1?pwd=6izx' },
