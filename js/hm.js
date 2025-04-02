@@ -646,6 +646,7 @@ const options = [
     { text: 'ArcGIS 2023', url: 'https://pan.xunlei.com/s/VO90SbL-6NsbFcZIibQBvkAWA1?pwd=9e9b#' },
     { text: 'ArcGIS 10.8.2', url: 'https://pan.xunlei.com/s/VOMI2zc_bPKRgkKbs1UIPE96A1?pwd=zzpd#' },
     { text: 'ArcGIS 10.8', url: 'https://pan.xunlei.com/s/VO90SKBGzObzLO4mndSZ8tZpA1?pwd=y6g5#' },
+    { text: 'Enscape 4.5', url: 'https://pan.xunlei.com/s/VOMq0QZzbjNuQ1O46mdOPfcGA1?pwd=yi3p#' },
     { text: 'Enscape 4.4', url: 'https://pan.xunlei.com/s/VOL4IsEmJcZHWa6U2vPFC-NiA1?pwd=eu8b#' },
     { text: 'Enscape 4.2', url: 'https://pan.xunlei.com/s/VOCCP_g5syD3rrYdkms00GmLA1?pwd=iby7#' },
     { text: 'Enscape 4.1', url: 'https://pan.xunlei.com/s/VNzGomnHwoZJxhvQRI5LD3lDA1?pwd=wq8a#' },
