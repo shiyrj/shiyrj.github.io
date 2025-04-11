@@ -40,6 +40,7 @@ const options = [
     { text: 'Project 2007', url: 'https://pan.xunlei.com/s/VNo1sJg-1BrXRDp3KcfMiweUA1?pwd=8jd9' },
     { text: 'Project视频教程', url: 'https://pan.quark.cn/s/d274a0dd1012' },
     { text: 'WPS 手机版(内置激活码)', url: 'https://pan.quark.cn/s/3d0f12d82ab8' },
+    { text: 'WPS PDF专业版', url: 'https://pan.xunlei.com/s/VON_DAx8S9YqasNs3IECwuUfA1?pwd=38ef#' },
     { text: 'WPS 2024（含VBA）', url: 'https://pan.xunlei.com/s/VOCfaP-mAx7ombTiO1V9ro7TA1?pwd=hnxe#' },
     { text: 'WPS 2023专业增强版(含VBA)', url: 'https://pan.xunlei.com/s/VOCfaDZmU4kPvye-v7NvMRvxA1?pwd=bgdy#' },
     { text: 'WPS 2022(内置激活码)', url: 'https://pan.xunlei.com/s/VNy-YFuMGLVYv5ikWyMHEMSgA1?pwd=6mjc#' },
