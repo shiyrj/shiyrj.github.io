@@ -149,6 +149,7 @@ const options = [
     { text: 'AutoCAD精简版2024', url: 'https://pan.xunlei.com/s/VNv3-fThPeQcrufZqxpKQMjtA1?pwd=rhua#' },
     { text: 'AutoCAD精简版2023', url: 'https://pan.xunlei.com/s/VNv3-jaGP4qvpRkYDMK0W5DYA1?pwd=h5fj#' },
     { text: 'AutoCAD精简版2022', url: 'https://pan.xunlei.com/s/VNv3-lxrfn3P_O21nvCsyGHyA1?pwd=j5ti#' },
+    { text: 'AutoCAD建筑版2026', url: 'https://pan.xunlei.com/s/VOOMi9Dw46g-d-Ia7ONi5ATQA1?pwd=fcqz#' },
     { text: 'AutoCAD建筑版2025', url: 'https://pan.xunlei.com/s/VO0X3Kf5PVdSuZT1IKax5giDA1?pwd=kbgk#' },
     { text: 'AutoCAD建筑版2024', url: 'https://pan.xunlei.com/s/VNrA4EN9X1Z5myhBpFvyrEywA1?pwd=qddx#' },
     { text: 'AutoCAD建筑版2023', url: 'https://pan.quark.cn/s/e38a0a43b0ea' },
