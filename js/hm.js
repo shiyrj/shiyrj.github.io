@@ -722,6 +722,7 @@ const options = [
     { text: 'Proteus 8.9', url: 'https://pan.xunlei.com/s/VNqaTRdSBKWiTLFbgJeW0I5BA1?pwd=s838#' },
     { text: 'Proteus 8.6', url: 'https://pan.xunlei.com/s/VNqaTW2RzZt9sWTk5Ibf2U7WA1?pwd=q7zf#' },
     { text: 'Proteus 7.8', url: 'https://pan.xunlei.com/s/VNqaTZNWZuqojpPY2chr340zA1?pwd=gwu5#' },
+    { text: 'Altium Designer 25.2', url: 'https://pan.xunlei.com/s/VOOuYP5tnO0d26FnN5uT3_k1A1?pwd=brsm#' },
     { text: 'Altium Designer 25.0', url: 'https://pan.xunlei.com/s/VOCCQ0yaIYvGhKbNGYhPP2MhA1?pwd=hxms#' },
     { text: 'Altium Designer 24.0', url: 'https://pan.xunlei.com/s/VNqaCWQOINZqXatF5l3E-hMVA1?pwd=ay25#' },
     { text: 'Altium Designer 23.0', url: 'https://pan.xunlei.com/s/VNv308kGzsZgpJlVUgAgOMJ3A1?pwd=c4vg#' },
