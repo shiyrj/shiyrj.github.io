@@ -45,6 +45,7 @@ const options = [
     { text: 'WPS 2023专业增强版(含VBA)', url: 'https://pan.xunlei.com/s/VOCfaDZmU4kPvye-v7NvMRvxA1?pwd=bgdy#' },
     { text: 'WPS 2022(内置激活码)', url: 'https://pan.xunlei.com/s/VNy-YFuMGLVYv5ikWyMHEMSgA1?pwd=6mjc#' },
     { text: 'WPS 2021(内置激活码)', url: 'https://pan.xunlei.com/s/VNy-YIzbKTrOaTb2Yb3OsqYWA1?pwd=hx8t#' },
+    { text: '福昕PDF 2025', url: 'https://pan.xunlei.com/s/VOOwnkokmpMnVc4_lh0y_fu3A1?pwd=ia9s#' },
     { text: '福昕PDF 2024', url: 'https://pan.xunlei.com/s/VOFFFEW_eWFD_2jLU4nc_oHYA1?pwd=rj8t#' },
     { text: 'Xmind 2024', url: 'https://pan.xunlei.com/s/VOFFEXVgWjN10iOj4AxeMcfzA1?pwd=6f35#' },
     { text: 'Xmind 2023', url: 'https://pan.xunlei.com/s/VNo2_1KAwbqrwdFzLNrM98CiA1?pwd=8z7i' },
@@ -145,6 +146,7 @@ const options = [
     { text: 'AutoCAD基础版2005', url: 'https://pan.xunlei.com/s/VNrhVlIGFaELj35X2uDB0bqYA1?pwd=iy33#' },
     { text: 'AutoCAD基础版2004', url: 'https://pan.xunlei.com/s/VNrhVq9gZXk0dNphYJqBG_Q7A1?pwd=me9c#' },
     { text: 'CAD视频教程', url: 'https://pan.quark.cn/s/ad1fdc1cac6e' },
+    { text: 'AutoCAD精简版2026', url: 'https://pan.xunlei.com/s/VOOwrLCMuj5mYBAuty6GPbbeA1?pwd=g9j8#' },
     { text: 'AutoCAD精简版2025', url: 'https://pan.xunlei.com/s/VNv3-c1K4wHIpQXU-PaQ5IUHA1?pwd=e2rz#' },
     { text: 'AutoCAD精简版2024', url: 'https://pan.xunlei.com/s/VNv3-fThPeQcrufZqxpKQMjtA1?pwd=rhua#' },
     { text: 'AutoCAD精简版2023', url: 'https://pan.xunlei.com/s/VNv3-jaGP4qvpRkYDMK0W5DYA1?pwd=h5fj#' },
@@ -167,6 +169,7 @@ const options = [
     { text: 'AutoCAD机械版2023', url: 'https://pan.xunlei.com/s/VNrA4kIf8Uwryk4gFTfQDMNLA1?pwd=uvuf#' },
     { text: 'AutoCAD机械版2022', url: 'https://pan.xunlei.com/s/VNrA4pyMp3Qq5kfcQ2jG2s-ZA1?pwd=5wrd#' },
     { text: 'AutoCAD机械版2021', url: 'https://pan.xunlei.com/s/VNrA4tuZx_OMm-fl9LiJNSW4A1?pwd=ey2x#' },
+    { text: '中望CAD 2026', url: 'https://pan.xunlei.com/s/VOOwxvzV1kDaZV5_MpP1aipDA1?pwd=ttxz#' },
     { text: '中望CAD 2025', url: 'https://pan.xunlei.com/s/VO1pj2ICySUPbNC-0eVnunD-A1?pwd=qkin#' },
     { text: '中望CAD 2024', url: 'https://pan.xunlei.com/s/VO-RQ7fW4CF2jSTdY0IXHU-nA1?pwd=t3w3#' },
     { text: '中望CAD 2023', url: 'https://pan.xunlei.com/s/VO-RQD1QW2_1H-9Z0svGBuKbA1?pwd=km9y#' },
@@ -182,6 +185,7 @@ const options = [
     { text: '浩辰CAD 2022', url: 'https://pan.xunlei.com/s/VO-RTm6kWST_TCWFVCpvGvBeA1?pwd=343d#' },
     { text: '浩辰CAD 2021', url: 'https://pan.xunlei.com/s/VO-RTq50F1Gwd1uHE5BFBOoOA1?pwd=ymv7#' },
     { text: '浩辰CAD 2019', url: 'https://pan.xunlei.com/s/VO-RTuIVGV5BO5isX-Se5BMMA1?pwd=t2km#' },
+    { text: 'Civil3D 2026', url: 'https://pan.xunlei.com/s/VOOwsWtfjUEt5HrukX8ALiDXA1?pwd=q5e5#' },
     { text: 'Civil3D 2025', url: 'https://pan.xunlei.com/s/VO0X46tHPVdSuZT1IKax6-ILA1?pwd=vzzq#' },
     { text: 'Civil3D 2024', url: 'https://pan.xunlei.com/s/VO0X4KPaVne-YWfbj2MtYy6vA1?pwd=uf7z#' },
     { text: 'Civil3D 2023', url: 'https://pan.xunlei.com/s/VNrTYdUH_UL3aVlnLdjQqCI8A1?pwd=zpc3#' },
@@ -877,6 +881,7 @@ const options = [
     { text: 'CIMCO Edit 2024', url: 'https://pan.xunlei.com/s/VO45wMWL7dCpNMETKTldhFL2A1?pwd=8dga#' },
     { text: 'CIMCO Edit 2023', url: 'https://pan.xunlei.com/s/VO45wOmad8AMSfKyHbYpxjrGA1?pwd=3nf4#' },
     { text: 'CIMCO Edit 2022', url: 'https://pan.xunlei.com/s/VO45wRABs4NPoRE_ol4zKp77A1?pwd=cgp9#' },
+    { text: 'EndNote 2025', url: 'https://pan.xunlei.com/s/VOOwt88vOZ7sHno8EpjFUHiAA1?pwd=73cc#' },
     { text: 'EndNote 21.5', url: 'https://pan.xunlei.com/s/VOCJTgGxvHb0be1H8lAAykyNA1?pwd=n59g#' },
     { text: 'EndNote 21.4', url: 'https://pan.xunlei.com/s/VO4QkFgb5PgyoT6OPXd1u1DSA1?pwd=e8br#' },
     { text: 'EndNote X9', url: 'https://pan.xunlei.com/s/VOCYYQitV4ytDNzMKk-YR_qxA1?pwd=w8by#' },
@@ -939,6 +944,23 @@ const options = [
     { text: 'Materials Studio 2023', url: 'https://pan.xunlei.com/s/VOMffRca94_I3oQwsr1WNI02A1?pwd=jxtd#' },
     { text: 'CST Studio Suite 2025', url: 'https://pan.xunlei.com/s/VOMfgp46AS-lEPQoVoeVxPWrA1?pwd=tam2#' },
     { text: 'SnapGene 6.0.2', url: 'https://pan.xunlei.com/s/VOMjPiIj94_I3oQwsr1XxbNYA1?pwd=4r7u#' },
+
+    { text: 'CAXA CAM数控车 2025', url: 'https://pan.xunlei.com/s/VOOwnOpjHtixo1UnwyweWV6XA1?pwd=7gvy#' },
+
+    { text: 'Aspen Plus 14.2', url: 'https://pan.xunlei.com/s/VOOwoko3pZRxvQfBcajDcnWCA1?pwd=jj6y#' },
+
+    { text: 'JMatPro 7.0', url: 'https://pan.xunlei.com/s/VOOwr04o7pgJCAYU7Kju0NwAA1?pwd=dnuv#' },
+
+    { text: '浩辰CAD机械版 2025', url: 'https://pan.xunlei.com/s/VOOws11fzNI-UPmlMTHYGFZcA1?pwd=cj2z#' },
+    { text: '浩辰CAD机械版 2024', url: 'https://pan.xunlei.com/s/VOOwrya3w9uE1nBZ2V94tSXkA1?pwd=ctff#' },
+    { text: '浩辰CAD机械版 2019', url: 'https://pan.xunlei.com/s/VOOwrvaaRLFd38dbpR7BUmfUA1?pwd=7whu#' },
+
+    { text: 'Epidata 4.7', url: 'https://pan.xunlei.com/s/VOOwuAUd-wEAtCmsdBldHxbgA1?pwd=pibr#' },
+
+    { text: 'Tracker 6.3', url: 'https://pan.xunlei.com/s/VOOwviWFDc5hNkYvlj1MdJ2KA1?pwd=jchj#' },
+
+    { text: 'GetDataW 2.26', url: 'https://pan.xunlei.com/s/VOOwxh64czl2IvU-OOiHJXXkA1?pwd=nnjh#' },
+
 
 
     // ... 其他选项
