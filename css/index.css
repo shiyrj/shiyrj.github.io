@@ -515,7 +515,16 @@ footer {
     text-align: center;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1380px) {
+    .lad2 {
+        position: absolute;
+        top: 45px;
+        margin-left: -1000px;
+        display: none;
+    }
+}
+
+@media screen and (max-width: 880px) {
     /* 当屏幕宽度小于等于1280px时应用的样式 */
     .ad {
         width: 0;
