@@ -281,10 +281,10 @@ i.iconfont {
 
 
 #xunlei{
-    animation: blinker 1s linear infinite;
+    animation: blinker 3s linear infinite;
 }
 
-#kuake{
+#chakan{
     animation: blinker 1s linear infinite;
 }
 
@@ -303,15 +303,58 @@ i.iconfont {
 
 .lad2 {
     position: absolute;
-    top: 110px;
-    margin-left: 10px;
+    top: 200px;
+    margin-left: 4px;
     display: none;
     width: 19%;
 }
 
-.lad2 .dlink .link a{
+.lad2 .dlink .link1 a{
     color: #ff5d5d;
     font-size: 22px;
+}
+
+.lad2 .dlink .link1 a div{
+    font-size: 40px;
+    text-align: center; /* 设置文字居中 */
+}
+
+.lad2 .dlink .link1 a img{
+    width: 300px;
+    height: 300px;
+    margin: 2px;
+}
+
+
+/* 基础按钮样式 */
+.link-button {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    top: 200px;
+    margin-left: 34px;
+}
+
+/* 悬停效果 */
+.link-button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+/* 点击效果 */
+.link-button:active {
+    transform: translateY(1px);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
 }
 
 @keyframes blinker {
@@ -604,17 +647,17 @@ footer {
 
     .lad2 {
         position: absolute;
-        top: 40px;
-        margin-left: -2px;
+        top: 45px;
+        margin-left: -9px;
         display: none;
     }
 
-    .lad2 .dlink .link a{
+    .lad2 .dlink .link1 a div{
         font-size: 0;
     }
-    .lad2 .dlink .link a img{
-        width: 30px;
-        height: 30px;
+    .lad2 .dlink .link1 a img{
+        width: 100px;
+        height: 130px;
         margin: 2px;
     }
 
