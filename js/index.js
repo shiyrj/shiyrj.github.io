@@ -54,14 +54,14 @@ window.addEventListener('load', function () {
 });
 
 
-window.addEventListener('load', function () {
-    var ad = document.querySelector('.ad');
-    var now = new Date();
-    var hour = now.getHours();
-    if (hour >= 6 && hour < 23) {
-        ad.style.display = 'block';
-    }
-});
+// window.addEventListener('load', function () {
+//     var ad = document.querySelector('.ad');
+//     var now = new Date();
+//     var hour = now.getHours();
+//     if (hour >= 6 && hour < 23) {
+//         ad.style.display = 'block';
+//     }
+// });
 
 function removeStyle() {
     var columns = document.getElementsByClassName("mulu");

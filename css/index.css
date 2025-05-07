@@ -285,7 +285,7 @@ i.iconfont {
 }
 
 #chakan{
-    animation: blinker 1s linear infinite;
+    animation: blinker 2s linear infinite;
 }
 
 .lad1 {
@@ -661,12 +661,22 @@ footer {
         display: none;
     }
 
+    /* 基础按钮样式 */
+    .link-button {
+        padding: 0;
+    }
+
     .lad2 .dlink .link1 a div{
         font-size: 0;
     }
+
+    #kuake{
+        animation: blinker 2s linear infinite;
+    }
+
     .lad2 .dlink .link1 a img{
         width: 100px;
-        height: 130px;
+        height: 100px;
         margin: 2px;
     }
 
