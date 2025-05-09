@@ -284,8 +284,8 @@ i.iconfont {
     animation: blinker 3s linear infinite;
 }
 
-#chakan{
-    animation: blinker 2s linear infinite;
+#kuake{
+    animation: blinker 3s linear infinite;
 }
 
 .lad1 {
@@ -320,8 +320,8 @@ i.iconfont {
 }
 
 .lad2 .dlink .link1 a img{
-    width: 300px;
-    height: 300px;
+    width: 270px;
+    height: 190px;
     margin: 2px;
 }
 
@@ -666,17 +666,13 @@ footer {
         padding: 0;
     }
 
-    .lad2 .dlink .link1 a div{
-        font-size: 0;
-    }
-
     #kuake{
-        animation: blinker 2s linear infinite;
+        animation: blinker 3s linear infinite;
     }
 
     .lad2 .dlink .link1 a img{
         width: 100px;
-        height: 100px;
+        height: 75px;
         margin: 2px;
     }
 
