@@ -661,11 +661,6 @@ footer {
         display: none;
     }
 
-    /* 基础按钮样式 */
-    .link-button {
-        padding: 0;
-    }
-
     #kuake{
         animation: blinker 3s linear infinite;
     }
