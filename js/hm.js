@@ -595,6 +595,7 @@ const options = [
     { text: 'UG NX 10 免安装版', url: 'https://pan.quark.cn/s/8e69d01b30e3' },
     { text: 'UG NX 9', url: 'https://pan.xunlei.com/s/VNo2kwLxiRSY3D8mjG_bxOlhA1?pwd=xxji' },
     { text: 'UG NX 8', url: 'https://pan.xunlei.com/s/VNo2qeGXMLVS4SOd36eRnXM-A1?pwd=e886' },
+    { text: 'Rhino 8.19', url: 'https://pan.xunlei.com/s/VORALOf9X7oNg-Yqx1HInZ49A1?pwd=4gur#' },
     { text: 'Rhino 8.1', url: 'https://pan.xunlei.com/s/VNo7HT1Ec7M9D1JIPU7fze70A1?pwd=qq8z' },
     { text: 'Rhino 7.33', url: 'https://pan.xunlei.com/s/VNo7I5gpoJyL_PRv1h2Z0xWjA1?pwd=a4tz' },
     { text: 'Rhino 7.30', url: 'https://pan.xunlei.com/s/VNo7IESp9jdW7ZxaKkVYAEBiA1?pwd=5hht' },
@@ -963,6 +964,8 @@ const options = [
     { text: 'Tracker 6.3', url: 'https://pan.xunlei.com/s/VOOwviWFDc5hNkYvlj1MdJ2KA1?pwd=jchj#' },
 
     { text: 'GetDataW 2.26', url: 'https://pan.xunlei.com/s/VOOwxh64czl2IvU-OOiHJXXkA1?pwd=nnjh#' },
+
+    { text: 'PASS 2025', url: 'https://pan.xunlei.com/s/VORAMBDMOHxcEuiL2Q9QFx5_A1?pwd=5ng5#' },
 
 
 
