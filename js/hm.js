@@ -618,6 +618,7 @@ const options = [
     { text: 'Blender 3.0', url: 'https://pan.xunlei.com/s/VNo7U8KaXdonbUcTnYCeF4H2A1?pwd=wbgn' },
     { text: 'CATIA Composer 2024', url: 'https://pan.xunlei.com/s/VNrhd_kVZXk0dNphYJqBHvRmA1?pwd=vfq7#' },
     { text: 'Catia P3 V5-6R 2020', url: 'https://pan.xunlei.com/s/VO3lCcftg0OtKUo8KFP39GfhA1?pwd=bmr2#' },
+    { text: 'Creo 12', url: 'https://pan.xunlei.com/s/VOSULAIXxnREGZDVk1aujUoBA1?pwd=dbag#' },
     { text: 'Creo 11', url: 'https://pan.xunlei.com/s/VNx_e1bQjE3V6l_36sRfmzm8A1?pwd=vkd4#' },
     { text: 'Creo 10', url: 'https://pan.xunlei.com/s/VNs75JJoKmBZXpffJiQsBdTNA1?pwd=ca5i#' },
     { text: 'Creo 9', url: 'https://pan.xunlei.com/s/VNv2zuZRN5ahD_-qxZ2r4IBhA1?pwd=dk4q#' },
