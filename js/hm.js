@@ -537,6 +537,7 @@ const options = [
     { text: 'typora 1.7.6', url: 'https://pan.xunlei.com/s/VNrPwcD0uWJdjRHXwx-hqqfLA1?pwd=xxuq#' },
     { text: 'typora 1.6.5', url: 'https://pan.xunlei.com/s/VNrPwjg5eg_odP_8bPXl5ffLA1?pwd=mafz#' },
     { text: 'typora 1.5.6', url: 'https://pan.xunlei.com/s/VNrPwoEHDNDzvYJQ6WPkB5zBA1?pwd=m9u3#' },
+    { text: 'CINEMA 4D（C4D）2025.3', url: 'https://pan.xunlei.com/s/VOTPMpUuSA8ulJfPQikTv9mCA1?pwd=7nws#' },
     { text: 'CINEMA 4D（C4D）2025带Redshift渲染器', url: 'https://pan.xunlei.com/s/VOEoKdMTG181uFd_XPpoyosEA1?pwd=nvvm#' },
     { text: 'CINEMA 4D（C4D）2025', url: 'https://pan.xunlei.com/s/VO6kzIvTbQ3fi__q9e_SQn2SA1?pwd=sbrc#' },
     { text: 'CINEMA 4D（C4D）2024.5.0', url: 'https://pan.xunlei.com/s/VO2T68ssXgyxwKqfN8PG7xw8A1?pwd=cp9g#' },
