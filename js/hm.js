@@ -55,6 +55,7 @@ const options = [
     { text: 'Xmind 2020', url: 'https://pan.xunlei.com/s/VNo2_rFYNCYFTIdFJN53UxGzA1?pwd=brhi' },
     { text: 'Xmind 8', url: 'https://pan.xunlei.com/s/VNo2_zH1IOkdLE_7nUs1k404A1?pwd=5emy' },
     { text: 'SPSS视频教程', url: 'https://pan.quark.cn/s/a3a9c6f85755' },
+    { text: 'OriginPro2024b', url: 'https://pan.xunlei.com/s/VOTQjTd5OWWNQGE7paIp905iA1?pwd=zfdr#' },
     { text: 'Origin 2024', url: 'https://pan.xunlei.com/s/VOAMX1wBI4RHNmN5x4mfd-ppA1?pwd=6i83#' },
     { text: 'Origin 2022', url: 'https://pan.xunlei.com/s/VNv2rKLCFRyhSGY7pwhBT9AeA1?pwd=psd8#' },
     { text: 'Origin 2021', url: 'https://pan.xunlei.com/s/VNv2vK_bjdqRfzGgjZME5JZVA1?pwd=b9y2#' },
